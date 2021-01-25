@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "1X2, Full Time Result"
+    },
+    {
+      "id": "2",
+      "name": "Over/Under, Goal Line"
+    },
+    {
+      "id": "3",
+      "name": "Asian Handicap"
+    },
+    {
+      "id": "4",
+      "name": "1st Half Asian Handicap"
+    },
+    {
+      "id": "5",
+      "name": "Asian Corners"
+    },
+    {
+      "id": "6",
+      "name": "1st Half Goal Line"
+    },
+    {
+      "id": "7",
+      "name": "1st Half Asian Corners"
+    },
+    {
+      "id": "8",
+      "name": "Half Time Result"
+    }
+  ],
+  "meta": {
+    "requests_left": 2698,
+    "user": "19220464",
+    "plan": "pack_20",
+    "pages": 1,
+    "page": 1,
+    "count": 8,
+    "total": 8
+  }
+}

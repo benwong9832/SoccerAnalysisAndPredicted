@@ -1,0 +1,630 @@
+continent,country,league,season,team_name,type,player_id,name,reason,since,expected_return
+Asia,Japan,J1 League,2020,Cerezo Osaka,injuries,44943,"Takagi, Toshiyuki",Herniated Disc,2020-03-04,?
+Asia,Japan,J1 League,2020,Cerezo Osaka,injuries,44949,"Nagaishi, Takumi",Fatigue fracture,2020-05-21,?
+Asia,Japan,J1 League,2020,Cerezo Osaka,injuries,14989,"Nishikawa, Jun",Torn Muscle Fibre,2020-07-03,?
+Asia,Japan,J1 League,2020,Cerezo Osaka,injuries,44953,"Yamauchi, Hirofumi",Medial Collateral Ligament Tear,2020-07-12,?
+Asia,Japan,J1 League,2020,Cerezo Osaka,injuries,44945,"Akiyama, Daichi",Fatigue fracture,2020-01-27,?
+Asia,Japan,J1 League,2020,Kawasaki Frontale,injuries,45021,"Fujishima, Eisuke",Cruciate Ligament Surgery,2019-07-09,?
+Asia,Japan,J1 League,2020,Kawasaki Frontale,injuries,15037,"Hasegawa, Tatsuya",Medial Collateral Ligament Tear,2020-07-23,?
+Asia,Japan,J1 League,2020,Kawasaki Frontale,injuries,45018,"Nakamura, Kengo",Fitness,2020-07-28,?
+Asia,Japan,J1 League,2020,Sanfrecce Hiroshima,injuries,1297,"Kashiwa, Yoshifumi",Biceps femoris muscle injury,2020-07-05,?
+Asia,Japan,J1 League,2020,Shonan Bellmare,injuries,44775,"Ohashi, Yuki",Acromioclavicular Separation,2020-03-07,?
+Asia,Japan,J1 League,2020,Shonan Bellmare,injuries,15008,"Umesaki, Tsukasa",Torn Meniscus,2020-06-05,?
+Asia,Japan,J1 League,2020,Yokohama F Marinos,injuries,1224,"Park, Il-kyu",Hand fracture,2020-06-15,?
+Asia,Japan,J1 League,2020,Yokohama F Marinos,injuries,73307,"Saneto, Yuki",Hamstring Injury,2020-07-05,?
+Asia,Japan,J1 League,2019,Cerezo Osaka,injuries,44943,"Takagi, Toshiyuki",Herniated Disc,2020-03-04,?
+Asia,Japan,J1 League,2019,Cerezo Osaka,injuries,44949,"Nagaishi, Takumi",Fatigue fracture,2020-05-21,?
+Asia,Japan,J1 League,2019,Cerezo Osaka,injuries,14989,"Nishikawa, Jun",Torn Muscle Fibre,2020-07-03,?
+Asia,Japan,J1 League,2019,Cerezo Osaka,injuries,44953,"Yamauchi, Hirofumi",Medial Collateral Ligament Tear,2020-07-12,?
+Asia,Japan,J1 League,2019,Cerezo Osaka,injuries,44945,"Akiyama, Daichi",Fatigue fracture,2020-01-27,?
+Asia,Japan,J1 League,2019,Kawasaki Frontale,injuries,45021,"Fujishima, Eisuke",Cruciate Ligament Surgery,2019-07-09,?
+Asia,Japan,J1 League,2019,Kawasaki Frontale,injuries,15037,"Hasegawa, Tatsuya",Medial Collateral Ligament Tear,2020-07-23,?
+Asia,Japan,J1 League,2019,Kawasaki Frontale,injuries,45018,"Nakamura, Kengo",Fitness,2020-07-28,?
+Asia,Japan,J1 League,2019,Sanfrecce Hiroshima,injuries,1297,"Kashiwa, Yoshifumi",Biceps femoris muscle injury,2020-07-05,?
+Asia,Japan,J1 League,2019,Shonan Bellmare,injuries,44775,"Ohashi, Yuki",Acromioclavicular Separation,2020-03-07,?
+Asia,Japan,J1 League,2019,Shonan Bellmare,injuries,15008,"Umesaki, Tsukasa",Torn Meniscus,2020-06-05,?
+Asia,Japan,J1 League,2019,Yokohama F Marinos,injuries,1224,"Park, Il-kyu",Hand fracture,2020-06-15,?
+Asia,Japan,J1 League,2019,Yokohama F Marinos,injuries,73307,"Saneto, Yuki",Hamstring Injury,2020-07-05,?
+Asia,Republic of Korea,K League 1,2020,Jeonbuk Hyundai,?,26824,"Lee, Yong",,?,?
+Asia,Republic of Korea,K League 1,2020,Pohang Steelers FC,injuries,99272,"Palocevic, Aleksandar",Ankle Injury,2020-06-16,?
+Asia,Republic of Korea,K League 1,2019,Jeonbuk Hyundai,?,26824,"Lee, Yong",,?,?
+Asia,Republic of Korea,K League 1,2019,Pohang Steelers FC,injuries,99272,"Palocevic, Aleksandar",Ankle Injury,2020-06-16,?
+Europe,Belgium,Jupiler League,2020,Club Brugge,injuries,4532,"Vormer, Ruud",Torn Knee Ligament,2020-02-23,?
+Europe,Belgium,Jupiler League,2020,Club Brugge,injuries,4527,"Dennis, Emmanuel",Ankle Injury,2020-02-25,?
+Europe,Belgium,Jupiler League,2020,KAA Gent,?,4607,"Asare, Nana",,?,?
+Europe,Belgium,Jupiler League,2020,KAA Gent,?,4604,"Odjidja, Vadis",,?,?
+Europe,Belgium,Jupiler League,2020,KAA Gent,?,21593,"Yaremchuk, Roman",,?,?
+Europe,Belgium,Jupiler League,2020,KAA Gent,?,4610,"Owusu, Elisha",,?,?
+Europe,Belgium,Jupiler League,2020,KAA Gent,?,4603,"David, Jonathan",,?,?
+Europe,Belgium,Jupiler League,2019,Club Brugge,injuries,4532,"Vormer, Ruud",Torn Knee Ligament,2020-02-23,?
+Europe,Belgium,Jupiler League,2019,Club Brugge,injuries,4527,"Dennis, Emmanuel",Ankle Injury,2020-02-25,?
+Europe,Belgium,Jupiler League,2019,KAA Gent,?,4607,"Asare, Nana",,?,?
+Europe,Belgium,Jupiler League,2019,KAA Gent,?,4604,"Odjidja, Vadis",,?,?
+Europe,Belgium,Jupiler League,2019,KAA Gent,?,21593,"Yaremchuk, Roman",,?,?
+Europe,Belgium,Jupiler League,2019,KAA Gent,?,4610,"Owusu, Elisha",,?,?
+Europe,Belgium,Jupiler League,2019,KAA Gent,?,4603,"David, Jonathan",,?,?
+Europe,Belgium,Jupiler League,2018,Club Brugge,injuries,4532,"Vormer, Ruud",Torn Knee Ligament,2020-02-23,?
+Europe,Belgium,Jupiler League,2018,Club Brugge,injuries,4527,"Dennis, Emmanuel",Ankle Injury,2020-02-25,?
+Europe,Belgium,Jupiler League,2018,KAA Gent,?,4607,"Asare, Nana",,?,?
+Europe,Belgium,Jupiler League,2018,KAA Gent,?,4604,"Odjidja, Vadis",,?,?
+Europe,Belgium,Jupiler League,2018,KAA Gent,?,21593,"Yaremchuk, Roman",,?,?
+Europe,Belgium,Jupiler League,2018,KAA Gent,?,4610,"Owusu, Elisha",,?,?
+Europe,Belgium,Jupiler League,2018,KAA Gent,?,4603,"David, Jonathan",,?,?
+Europe,England,England Premier League,2020,Chelsea FC,injuries,17172,"Gilmour, Billy",Knee Injury,2020-07-09,?
+Europe,England,England Premier League,2020,Chelsea FC,injuries,6473,"Azpilicueta, Cesar",Calf Strain,2020-08-01,2020-08-22
+Europe,England,England Premier League,2020,Chelsea FC,injuries,6414,"Pulisic, Christian",Hamstring Injury,2020-08-02,?
+Europe,England,England Premier League,2020,Chelsea FC,injuries,23939,"Baba, Rahman",Knee Injury,2019-09-23,?
+Europe,England,England Premier League,2020,Fulham FC,injuries,11288,"Mitrovic, Aleksandar",Knock,2020-07-26,2020-07-29
+Europe,England,England Premier League,2020,Fulham FC,suspensions,361,"Zambo Anguissa, Andre-Frank",No eligibility,2020-07-27,2020-08-03
+Europe,England,England Premier League,2020,Leeds United,injuries,27125,"Forshaw, Adam",Hip Injury,2019-09-30,?
+Europe,England,England Premier League,2020,Liverpool FC,?,6469,"Milner, James",,?,?
+Europe,England,England Premier League,2020,Manchester City,injuries,82813,"Steffen, Zack",Medial Collateral Ligament Injury,2020-04-27,?
+Europe,England,England Premier League,2020,Manchester United,?,442,"James, Daniel",,?,?
+Europe,England,England Premier League,2020,Southampton FC,injuries,17966,"Carrillo, Guido",Hamstring Injury,2020-06-23,?
+Europe,England,England Premier League,2020,Southampton FC,injuries,22646,"McQueen, Sam",Cruciate Ligament Rupture,2018-10-31,?
+Europe,England,England Premier League,2020,West Bromwich Albion,injuries,27060,"Leko, Jonathan",Cruciate Ligament Injury,2019-12-21,2020-08-08
+Europe,England,England Premier League,2020,West Ham United,?,6410,"Snodgrass, Robert",,?,?
+Europe,England,England Premier League,2020,West Ham United,?,6465,"Ogbonna, Angelo",,?,?
+Europe,England,England Premier League,2020,Wolverhampton Wanderers,?,446,"Coady, Conor",,?,?
+Europe,England,England Premier League,2020,Wolverhampton Wanderers,?,176,"Dendoncker, Leander",,?,?
+Europe,England,England Premier League,2019,AFC Bournemouth,injuries,22615,"Daniels, Charlie",Knee Surgery,2019-08-26,?
+Europe,England,England Premier League,2019,Chelsea FC,injuries,17172,"Gilmour, Billy",Knee Injury,2020-07-09,?
+Europe,England,England Premier League,2019,Chelsea FC,injuries,6473,"Azpilicueta, Cesar",Calf Strain,2020-08-01,2020-08-22
+Europe,England,England Premier League,2019,Chelsea FC,injuries,6414,"Pulisic, Christian",Hamstring Injury,2020-08-02,?
+Europe,England,England Premier League,2019,Chelsea FC,injuries,23939,"Baba, Rahman",Knee Injury,2019-09-23,?
+Europe,England,England Premier League,2019,Liverpool FC,?,6469,"Milner, James",,?,?
+Europe,England,England Premier League,2019,Manchester City,injuries,82813,"Steffen, Zack",Medial Collateral Ligament Injury,2020-04-27,?
+Europe,England,England Premier League,2019,Manchester United,?,442,"James, Daniel",,?,?
+Europe,England,England Premier League,2019,Southampton FC,injuries,17966,"Carrillo, Guido",Hamstring Injury,2020-06-23,?
+Europe,England,England Premier League,2019,Southampton FC,injuries,22646,"McQueen, Sam",Cruciate Ligament Rupture,2018-10-31,?
+Europe,England,England Premier League,2019,West Ham United,?,6410,"Snodgrass, Robert",,?,?
+Europe,England,England Premier League,2019,West Ham United,?,6465,"Ogbonna, Angelo",,?,?
+Europe,England,England Premier League,2019,Wolverhampton Wanderers,?,446,"Coady, Conor",,?,?
+Europe,England,England Premier League,2019,Wolverhampton Wanderers,?,176,"Dendoncker, Leander",,?,?
+Europe,England,England Premier League,2018,AFC Bournemouth,injuries,22615,"Daniels, Charlie",Knee Surgery,2019-08-26,?
+Europe,England,England Premier League,2018,Cardiff City,?,12297,"Morrison, Sean",,?,?
+Europe,England,England Premier League,2018,Cardiff City,?,12306,"Pack, Marlon",,?,?
+Europe,England,England Premier League,2018,Cardiff City,?,12304,"Murphy, Josh",,?,?
+Europe,England,England Premier League,2018,Chelsea FC,injuries,17172,"Gilmour, Billy",Knee Injury,2020-07-09,?
+Europe,England,England Premier League,2018,Chelsea FC,injuries,6473,"Azpilicueta, Cesar",Calf Strain,2020-08-01,2020-08-22
+Europe,England,England Premier League,2018,Chelsea FC,injuries,6414,"Pulisic, Christian",Hamstring Injury,2020-08-02,?
+Europe,England,England Premier League,2018,Chelsea FC,injuries,23939,"Baba, Rahman",Knee Injury,2019-09-23,?
+Europe,England,England Premier League,2018,Fulham FC,injuries,11288,"Mitrovic, Aleksandar",Knock,2020-07-26,2020-07-29
+Europe,England,England Premier League,2018,Fulham FC,suspensions,361,"Zambo Anguissa, Andre-Frank",No eligibility,2020-07-27,2020-08-03
+Europe,England,England Premier League,2018,Liverpool FC,?,6469,"Milner, James",,?,?
+Europe,England,England Premier League,2018,Manchester City,injuries,82813,"Steffen, Zack",Medial Collateral Ligament Injury,2020-04-27,?
+Europe,England,England Premier League,2018,Manchester United,?,442,"James, Daniel",,?,?
+Europe,England,England Premier League,2018,Southampton FC,injuries,17966,"Carrillo, Guido",Hamstring Injury,2020-06-23,?
+Europe,England,England Premier League,2018,Southampton FC,injuries,22646,"McQueen, Sam",Cruciate Ligament Rupture,2018-10-31,?
+Europe,England,England Premier League,2018,West Ham United,?,6410,"Snodgrass, Robert",,?,?
+Europe,England,England Premier League,2018,West Ham United,?,6465,"Ogbonna, Angelo",,?,?
+Europe,England,England Premier League,2018,Wolverhampton Wanderers,?,446,"Coady, Conor",,?,?
+Europe,England,England Premier League,2018,Wolverhampton Wanderers,?,176,"Dendoncker, Leander",,?,?
+Europe,England,Championship,2020,AFC Bournemouth,injuries,22615,"Daniels, Charlie",Knee Surgery,2019-08-26,?
+Europe,England,Championship,2020,Barnsley,?,12277,"Halme, Aapo",,?,?
+Europe,England,Championship,2020,Barnsley,?,14802,"Andersen, Mads",,?,?
+Europe,England,Championship,2020,Barnsley,?,12280,"Williams, Jordan",,?,?
+Europe,England,Championship,2020,Barnsley,?,12272,"Brown, Jacob",,?,?
+Europe,England,Championship,2020,Birmingham City,?,5222,"Gardner, Gary",,?,?
+Europe,England,Championship,2020,Birmingham City,?,5226,"Sunjic, Ivan",,?,?
+Europe,England,Championship,2020,Birmingham City,?,5221,"Colin, Maxime",,?,?
+Europe,England,Championship,2020,Blackburn Rovers,injuries,27048,"Dack, Bradley",Cruciate Ligament Injury,2019-12-23,2020-12-01
+Europe,England,Championship,2020,Brentford FC,injuries,21124,"Forss, Marcus",Hamstring Injury,2020-01-12,?
+Europe,England,Championship,2020,Brentford FC,suspensions,12338,"Henry, Rico",Red card suspension,2020-07-27,?
+Europe,England,Championship,2020,Bristol City,?,27115,"Rowe, Tommy",,?,?
+Europe,England,Championship,2020,Bristol City,?,11277,"Wells, Nahki",,?,?
+Europe,England,Championship,2020,Cardiff City,?,12297,"Morrison, Sean",,?,?
+Europe,England,Championship,2020,Cardiff City,?,12306,"Pack, Marlon",,?,?
+Europe,England,Championship,2020,Cardiff City,?,12304,"Murphy, Josh",,?,?
+Europe,England,Championship,2020,Coventry City,injuries,21164,"Jobello, Wesley",Cruciate Ligament Rupture,2019-10-04,?
+Europe,England,Championship,2020,Derby County,injuries,22784,"Bielik, Krystian",Cruciate Ligament Rupture,2020-01-13,2020-10-13
+Europe,England,Championship,2020,Luton Town,?,12405,"Collins, James",,?,?
+Europe,England,Championship,2020,Luton Town,?,12403,"Rea, Glen",,?,?
+Europe,England,Championship,2020,Luton Town,?,12410,"Shinnie, Andrew",,?,?
+Europe,England,Championship,2020,Middlesbrough FC,?,5264,"Saville, George",,?,?
+Europe,England,Championship,2020,Middlesbrough FC,?,5273,"Clayton, Adam",,?,?
+Europe,England,Championship,2020,Middlesbrough FC,?,5266,"Johnson, Marvin",,?,?
+Europe,England,Championship,2020,Millwall FC,injuries,27076,"Thompson, Ben",Unknown Injury,2019-12-15,?
+Europe,England,Championship,2020,Millwall FC,injuries,27074,"Fielding, Frank",Arm Injury,2020-01-27,?
+Europe,England,Championship,2020,Nottingham Forest,?,27094,"Sow, Samba",,?,?
+Europe,England,Championship,2020,Nottingham Forest,?,7987,"Semedo, Alfa",,?,?
+Europe,England,Championship,2020,Preston North End,?,27085,"Pearson, Ben",,?,?
+Europe,England,Championship,2020,Preston North End,?,12249,"Harrop, Josh",,?,?
+Europe,England,Championship,2020,Queens Park Rangers,?,12261,"Cameron, Geoff",,?,?
+Europe,England,Championship,2020,Queens Park Rangers,?,12263,"Osayi-Samuel, Bright",,?,?
+Europe,England,Championship,2020,Queens Park Rangers,?,12256,"Ball, Dominic",,?,?
+Europe,England,Championship,2020,Reading FC,suspensions,12230,"Blackett, Tyler",Red card suspension,2018-12-27,?
+Europe,England,Championship,2020,Sheffield Wednesday,?,9015,"Odubajo, Moses",,?,?
+Europe,England,Championship,2020,Sheffield Wednesday,?,26810,"Luongo, Massimo",,?,?
+Europe,England,Championship,2020,Sheffield Wednesday,?,9031,"Iorfa, Dominic",,?,?
+Europe,England,Championship,2020,Stoke City,injuries,12508,"Allen, Joe",Achilles tendon rupture,2020-03-07,2020-09-07
+Europe,England,Championship,2020,Stoke City,injuries,595,"Etebo, Oghenekaro",Unknown Injury,2020-06-30,?
+Europe,England,Championship,2020,Stoke City,suspensions,595,"Etebo, Oghenekaro",No eligibility,2020-02-17,?
+Europe,England,Championship,2020,Swansea City,suspensions,12545,"Naughton, Kyle",Red card suspension,2020-07-16,?
+Europe,England,Championship,2019,Barnsley,?,12277,"Halme, Aapo",,?,?
+Europe,England,Championship,2019,Barnsley,?,14802,"Andersen, Mads",,?,?
+Europe,England,Championship,2019,Barnsley,?,12280,"Williams, Jordan",,?,?
+Europe,England,Championship,2019,Barnsley,?,12272,"Brown, Jacob",,?,?
+Europe,England,Championship,2019,Birmingham City,?,5222,"Gardner, Gary",,?,?
+Europe,England,Championship,2019,Birmingham City,?,5226,"Sunjic, Ivan",,?,?
+Europe,England,Championship,2019,Birmingham City,?,5221,"Colin, Maxime",,?,?
+Europe,England,Championship,2019,Blackburn Rovers,injuries,27048,"Dack, Bradley",Cruciate Ligament Injury,2019-12-23,2020-12-01
+Europe,England,Championship,2019,Brentford FC,injuries,21124,"Forss, Marcus",Hamstring Injury,2020-01-12,?
+Europe,England,Championship,2019,Brentford FC,suspensions,12338,"Henry, Rico",Red card suspension,2020-07-27,?
+Europe,England,Championship,2019,Bristol City,?,27115,"Rowe, Tommy",,?,?
+Europe,England,Championship,2019,Bristol City,?,11277,"Wells, Nahki",,?,?
+Europe,England,Championship,2019,Cardiff City,?,12297,"Morrison, Sean",,?,?
+Europe,England,Championship,2019,Cardiff City,?,12306,"Pack, Marlon",,?,?
+Europe,England,Championship,2019,Cardiff City,?,12304,"Murphy, Josh",,?,?
+Europe,England,Championship,2019,Charlton Athletic,injuries,27059,"Page, Lewis",Hamstring Injury,2019-08-31,?
+Europe,England,Championship,2019,Derby County,injuries,22784,"Bielik, Krystian",Cruciate Ligament Rupture,2020-01-13,2020-10-13
+Europe,England,Championship,2019,Fulham FC,injuries,11288,"Mitrovic, Aleksandar",Knock,2020-07-26,2020-07-29
+Europe,England,Championship,2019,Fulham FC,suspensions,361,"Zambo Anguissa, Andre-Frank",No eligibility,2020-07-27,2020-08-03
+Europe,England,Championship,2019,Hull City,injuries,26957,"MacDonald, Angus",Cancer,2019-09-04,?
+Europe,England,Championship,2019,Leeds United,injuries,27125,"Forshaw, Adam",Hip Injury,2019-09-30,?
+Europe,England,Championship,2019,Luton Town,?,12405,"Collins, James",,?,?
+Europe,England,Championship,2019,Luton Town,?,12403,"Rea, Glen",,?,?
+Europe,England,Championship,2019,Luton Town,?,12410,"Shinnie, Andrew",,?,?
+Europe,England,Championship,2019,Middlesbrough FC,?,5264,"Saville, George",,?,?
+Europe,England,Championship,2019,Middlesbrough FC,?,5273,"Clayton, Adam",,?,?
+Europe,England,Championship,2019,Middlesbrough FC,?,5266,"Johnson, Marvin",,?,?
+Europe,England,Championship,2019,Millwall FC,injuries,27076,"Thompson, Ben",Unknown Injury,2019-12-15,?
+Europe,England,Championship,2019,Millwall FC,injuries,27074,"Fielding, Frank",Arm Injury,2020-01-27,?
+Europe,England,Championship,2019,Nottingham Forest,?,27094,"Sow, Samba",,?,?
+Europe,England,Championship,2019,Nottingham Forest,?,7987,"Semedo, Alfa",,?,?
+Europe,England,Championship,2019,Preston North End,?,27085,"Pearson, Ben",,?,?
+Europe,England,Championship,2019,Preston North End,?,12249,"Harrop, Josh",,?,?
+Europe,England,Championship,2019,Queens Park Rangers,?,12261,"Cameron, Geoff",,?,?
+Europe,England,Championship,2019,Queens Park Rangers,?,12263,"Osayi-Samuel, Bright",,?,?
+Europe,England,Championship,2019,Queens Park Rangers,?,12256,"Ball, Dominic",,?,?
+Europe,England,Championship,2019,Reading FC,suspensions,12230,"Blackett, Tyler",Red card suspension,2018-12-27,?
+Europe,England,Championship,2019,Sheffield Wednesday,?,9015,"Odubajo, Moses",,?,?
+Europe,England,Championship,2019,Sheffield Wednesday,?,26810,"Luongo, Massimo",,?,?
+Europe,England,Championship,2019,Sheffield Wednesday,?,9031,"Iorfa, Dominic",,?,?
+Europe,England,Championship,2019,Stoke City,injuries,12508,"Allen, Joe",Achilles tendon rupture,2020-03-07,2020-09-07
+Europe,England,Championship,2019,Stoke City,injuries,595,"Etebo, Oghenekaro",Unknown Injury,2020-06-30,?
+Europe,England,Championship,2019,Stoke City,suspensions,595,"Etebo, Oghenekaro",No eligibility,2020-02-17,?
+Europe,England,Championship,2019,Swansea City,suspensions,12545,"Naughton, Kyle",Red card suspension,2020-07-16,?
+Europe,England,Championship,2019,West Bromwich Albion,injuries,27060,"Leko, Jonathan",Cruciate Ligament Injury,2019-12-21,2020-08-08
+Europe,England,Championship,2019,Wigan Athletic,injuries,26912,"Robinson, Antonee",Groin Injury,2020-01-31,?
+Europe,England,Championship,2019,Wigan Athletic,suspensions,26906,"Fox, Danny",Red card suspension,2020-07-13,?
+Europe,England,Championship,2018,Birmingham City,?,5222,"Gardner, Gary",,?,?
+Europe,England,Championship,2018,Birmingham City,?,5226,"Sunjic, Ivan",,?,?
+Europe,England,Championship,2018,Birmingham City,?,5221,"Colin, Maxime",,?,?
+Europe,England,Championship,2018,Blackburn Rovers,injuries,27048,"Dack, Bradley",Cruciate Ligament Injury,2019-12-23,2020-12-01
+Europe,England,Championship,2018,Brentford FC,injuries,21124,"Forss, Marcus",Hamstring Injury,2020-01-12,?
+Europe,England,Championship,2018,Brentford FC,suspensions,12338,"Henry, Rico",Red card suspension,2020-07-27,?
+Europe,England,Championship,2018,Bristol City,?,27115,"Rowe, Tommy",,?,?
+Europe,England,Championship,2018,Bristol City,?,11277,"Wells, Nahki",,?,?
+Europe,England,Championship,2018,Derby County,injuries,22784,"Bielik, Krystian",Cruciate Ligament Rupture,2020-01-13,2020-10-13
+Europe,England,Championship,2018,Hull City,injuries,26957,"MacDonald, Angus",Cancer,2019-09-04,?
+Europe,England,Championship,2018,Leeds United,injuries,27125,"Forshaw, Adam",Hip Injury,2019-09-30,?
+Europe,England,Championship,2018,Middlesbrough FC,?,5264,"Saville, George",,?,?
+Europe,England,Championship,2018,Middlesbrough FC,?,5273,"Clayton, Adam",,?,?
+Europe,England,Championship,2018,Middlesbrough FC,?,5266,"Johnson, Marvin",,?,?
+Europe,England,Championship,2018,Millwall FC,injuries,27076,"Thompson, Ben",Unknown Injury,2019-12-15,?
+Europe,England,Championship,2018,Millwall FC,injuries,27074,"Fielding, Frank",Arm Injury,2020-01-27,?
+Europe,England,Championship,2018,Nottingham Forest,?,27094,"Sow, Samba",,?,?
+Europe,England,Championship,2018,Nottingham Forest,?,7987,"Semedo, Alfa",,?,?
+Europe,England,Championship,2018,Preston North End,?,27085,"Pearson, Ben",,?,?
+Europe,England,Championship,2018,Preston North End,?,12249,"Harrop, Josh",,?,?
+Europe,England,Championship,2018,Queens Park Rangers,?,12261,"Cameron, Geoff",,?,?
+Europe,England,Championship,2018,Queens Park Rangers,?,12263,"Osayi-Samuel, Bright",,?,?
+Europe,England,Championship,2018,Queens Park Rangers,?,12256,"Ball, Dominic",,?,?
+Europe,England,Championship,2018,Reading FC,suspensions,12230,"Blackett, Tyler",Red card suspension,2018-12-27,?
+Europe,England,Championship,2018,Sheffield Wednesday,?,9015,"Odubajo, Moses",,?,?
+Europe,England,Championship,2018,Sheffield Wednesday,?,26810,"Luongo, Massimo",,?,?
+Europe,England,Championship,2018,Sheffield Wednesday,?,9031,"Iorfa, Dominic",,?,?
+Europe,England,Championship,2018,Stoke City,injuries,12508,"Allen, Joe",Achilles tendon rupture,2020-03-07,2020-09-07
+Europe,England,Championship,2018,Stoke City,injuries,595,"Etebo, Oghenekaro",Unknown Injury,2020-06-30,?
+Europe,England,Championship,2018,Stoke City,suspensions,595,"Etebo, Oghenekaro",No eligibility,2020-02-17,?
+Europe,England,Championship,2018,Swansea City,suspensions,12545,"Naughton, Kyle",Red card suspension,2020-07-16,?
+Europe,England,Championship,2018,West Bromwich Albion,injuries,27060,"Leko, Jonathan",Cruciate Ligament Injury,2019-12-21,2020-08-08
+Europe,England,Championship,2018,Wigan Athletic,injuries,26912,"Robinson, Antonee",Groin Injury,2020-01-31,?
+Europe,England,Championship,2018,Wigan Athletic,suspensions,26906,"Fox, Danny",Red card suspension,2020-07-13,?
+Europe,England,League One,2020,Charlton Athletic,injuries,27059,"Page, Lewis",Hamstring Injury,2019-08-31,?
+Europe,England,League One,2020,Hull City,injuries,26957,"MacDonald, Angus",Cancer,2019-09-04,?
+Europe,England,League One,2020,Wigan Athletic,injuries,26912,"Robinson, Antonee",Groin Injury,2020-01-31,?
+Europe,England,League One,2020,Wigan Athletic,suspensions,26906,"Fox, Danny",Red card suspension,2020-07-13,?
+Europe,England,League One,2019,Coventry City,injuries,21164,"Jobello, Wesley",Cruciate Ligament Rupture,2019-10-04,?
+Europe,England,League One,2018,Barnsley,?,12277,"Halme, Aapo",,?,?
+Europe,England,League One,2018,Barnsley,?,14802,"Andersen, Mads",,?,?
+Europe,England,League One,2018,Barnsley,?,12280,"Williams, Jordan",,?,?
+Europe,England,League One,2018,Barnsley,?,12272,"Brown, Jacob",,?,?
+Europe,England,League One,2018,Charlton Athletic,injuries,27059,"Page, Lewis",Hamstring Injury,2019-08-31,?
+Europe,England,League One,2018,Coventry City,injuries,21164,"Jobello, Wesley",Cruciate Ligament Rupture,2019-10-04,?
+Europe,England,League One,2018,Luton Town,?,12405,"Collins, James",,?,?
+Europe,England,League One,2018,Luton Town,?,12403,"Rea, Glen",,?,?
+Europe,England,League One,2018,Luton Town,?,12410,"Shinnie, Andrew",,?,?
+Europe,France,Ligue 1,2020,AS Saint-Etienne,injuries,35541,"Monnet-Paquet, Kevin",Cruciate Ligament Rupture,2019-10-12,?
+Europe,France,Ligue 1,2020,AS Saint-Etienne,injuries,724,"Diony, Lois",Head Injury,2020-06-20,?
+Europe,France,Ligue 1,2020,FC Metz,injuries,35625,"Cabit, Manuel",Traffic Accident,2019-11-04,?
+Europe,France,Ligue 1,2020,FC Metz,injuries,13622,"N`Doram, Kevin",Achilles tendon surgery,2020-06-16,?
+Europe,France,Ligue 1,2020,LOSC Lille,injuries,23778,"Weah, Tim",Hamstring Injury,2020-02-17,?
+Europe,France,Ligue 1,2020,Montpellier HSC,?,17719,"Congre, Daniel",,?,?
+Europe,France,Ligue 1,2020,Olympique Marseille,?,10525,"Amavi, Jordan",,?,?
+Europe,France,Ligue 1,2020,Olympique Marseille,?,5973,"Benedetto, Dario",,?,?
+Europe,France,Ligue 1,2020,Olympique Nimes,injuries,35634,"Depres, Clement",Cruciate Ligament Rupture,2019-01-23,?
+Europe,France,Ligue 1,2020,Paris Saint-Germain,injuries,679,"Kehrer, Thilo",Knock,2020-07-24,?
+Europe,France,Ligue 1,2020,RC Strasbourg Alsace,injuries,74380,"Saadi, Idriss",Calf Injury,2019-12-06,?
+Europe,France,Ligue 1,2020,SCO Angers,?,13404,"Thomas, Romain",,?,?
+Europe,France,Ligue 1,2020,Stade Brestois 29,injuries,19543,"Bain, Denys",Cruciate Ligament Rupture,2020-07-22,?
+Europe,France,Ligue 1,2020,Stade Reims,injuries,747,"Donis, Anastasios",Adductor problems,2020-03-04,?
+Europe,France,Ligue 1,2019,AS Saint-Etienne,injuries,35541,"Monnet-Paquet, Kevin",Cruciate Ligament Rupture,2019-10-12,?
+Europe,France,Ligue 1,2019,AS Saint-Etienne,injuries,724,"Diony, Lois",Head Injury,2020-06-20,?
+Europe,France,Ligue 1,2019,FC Metz,injuries,35625,"Cabit, Manuel",Traffic Accident,2019-11-04,?
+Europe,France,Ligue 1,2019,FC Metz,injuries,13622,"N`Doram, Kevin",Achilles tendon surgery,2020-06-16,?
+Europe,France,Ligue 1,2019,FC Toulouse,injuries,35586,"Sidibe, Kalidou",Pubalgia,2019-10-05,2020-07-01
+Europe,France,Ligue 1,2019,FC Toulouse,injuries,30818,"Amian, Kelvin",Foot Injury,2020-01-01,?
+Europe,France,Ligue 1,2019,FC Toulouse,injuries,22772,"Kalinic, Lovre",Thigh Problems,2020-02-08,?
+Europe,France,Ligue 1,2019,LOSC Lille,injuries,23778,"Weah, Tim",Hamstring Injury,2020-02-17,?
+Europe,France,Ligue 1,2019,Montpellier HSC,?,17719,"Congre, Daniel",,?,?
+Europe,France,Ligue 1,2019,Olympique Marseille,?,10525,"Amavi, Jordan",,?,?
+Europe,France,Ligue 1,2019,Olympique Marseille,?,5973,"Benedetto, Dario",,?,?
+Europe,France,Ligue 1,2019,Olympique Nimes,injuries,35634,"Depres, Clement",Cruciate Ligament Rupture,2019-01-23,?
+Europe,France,Ligue 1,2019,Paris Saint-Germain,injuries,679,"Kehrer, Thilo",Knock,2020-07-24,?
+Europe,France,Ligue 1,2019,RC Strasbourg Alsace,injuries,74380,"Saadi, Idriss",Calf Injury,2019-12-06,?
+Europe,France,Ligue 1,2019,SC Amiens,injuries,35571,"Gouano, Prince",Virus Infection,2019-08-28,?
+Europe,France,Ligue 1,2019,SCO Angers,?,13404,"Thomas, Romain",,?,?
+Europe,France,Ligue 1,2019,Stade Brestois 29,injuries,19543,"Bain, Denys",Cruciate Ligament Rupture,2020-07-22,?
+Europe,France,Ligue 1,2019,Stade Reims,injuries,747,"Donis, Anastasios",Adductor problems,2020-03-04,?
+Europe,France,Ligue 1,2018,AS Saint-Etienne,injuries,35541,"Monnet-Paquet, Kevin",Cruciate Ligament Rupture,2019-10-12,?
+Europe,France,Ligue 1,2018,AS Saint-Etienne,injuries,724,"Diony, Lois",Head Injury,2020-06-20,?
+Europe,France,Ligue 1,2018,FC Toulouse,injuries,35586,"Sidibe, Kalidou",Pubalgia,2019-10-05,2020-07-01
+Europe,France,Ligue 1,2018,FC Toulouse,injuries,30818,"Amian, Kelvin",Foot Injury,2020-01-01,?
+Europe,France,Ligue 1,2018,FC Toulouse,injuries,22772,"Kalinic, Lovre",Thigh Problems,2020-02-08,?
+Europe,France,Ligue 1,2018,LOSC Lille,injuries,23778,"Weah, Tim",Hamstring Injury,2020-02-17,?
+Europe,France,Ligue 1,2018,Montpellier HSC,?,17719,"Congre, Daniel",,?,?
+Europe,France,Ligue 1,2018,Olympique Marseille,?,10525,"Amavi, Jordan",,?,?
+Europe,France,Ligue 1,2018,Olympique Marseille,?,5973,"Benedetto, Dario",,?,?
+Europe,France,Ligue 1,2018,Olympique Nimes,injuries,35634,"Depres, Clement",Cruciate Ligament Rupture,2019-01-23,?
+Europe,France,Ligue 1,2018,Paris Saint-Germain,injuries,679,"Kehrer, Thilo",Knock,2020-07-24,?
+Europe,France,Ligue 1,2018,RC Strasbourg Alsace,injuries,74380,"Saadi, Idriss",Calf Injury,2019-12-06,?
+Europe,France,Ligue 1,2018,SC Amiens,injuries,35571,"Gouano, Prince",Virus Infection,2019-08-28,?
+Europe,France,Ligue 1,2018,SCO Angers,?,13404,"Thomas, Romain",,?,?
+Europe,France,Ligue 1,2018,Stade Reims,injuries,747,"Donis, Anastasios",Adductor problems,2020-03-04,?
+Europe,Germany,Bundesliga,2020,Bayer 04 Leverkusen,injuries,1561,"Havertz, Kai",Muscular problems,2020-06-06,?
+Europe,Germany,Bundesliga,2020,Borussia Dortmund,injuries,13186,"Zagadou, Dan-Axel",Knee Problems,2020-08-14,?
+Europe,Germany,Bundesliga,2020,Borussia Dortmund,injuries,19989,"Reus, Marco",Tendonitis,2020-07-30,?
+Europe,Germany,Bundesliga,2020,Borussia Dortmund,injuries,13197,"Schmelzer,Marcel",Knee Surgery,2020-07-15,?
+Europe,Germany,Bundesliga,2020,Borussia Dortmund,suspensions,137486,"Moukoko, Youssoufa",No eligibility,2020-07-01,2020-11-20
+Europe,Germany,Bundesliga,2020,Borussia Monchengladbach,injuries,16622,"Johnson, Fabian",Muscular problems,2020-05-11,?
+Europe,Germany,Bundesliga,2020,Borussia Monchengladbach,injuries,13165,"Strobl, Tobias",Torn Muscle Fibre,2020-05-24,?
+Europe,Germany,Bundesliga,2020,Borussia Monchengladbach,injuries,13178,"Plea, Alassane",Tear in the abductor muscle,2020-06-13,?
+Europe,Germany,Bundesliga,2020,Borussia Monchengladbach,injuries,13173,"Thuram, Marcus",Ankle Injury,2020-06-14,?
+Europe,Germany,Bundesliga,2020,Eintracht Frankfurt,injuries,82848,"Fernandes, Gelson",Calf Injury,2020-05-31,2020-06-30
+Europe,Germany,Bundesliga,2020,Eintracht Frankfurt,suspensions,5627,"Kostic, Filip",Red card suspension,2020-03-05,?
+Europe,Germany,Bundesliga,2020,Eintracht Frankfurt,suspensions,5622,"Kamada, Daichi",Yellow card suspension,2020-06-18,2020-06-21
+Europe,Germany,Bundesliga,2020,Eintracht Frankfurt,suspensions,8593,"Zalazar Martinez, Rodrigo",No eligibility,2020-04-30,2020-06-30
+Europe,Germany,Bundesliga,2020,FC Bayern Munich,injuries,17323,"Pavard, Benjamin",Ligament Injury,2020-07-26,?
+Europe,Germany,Bundesliga,2020,RB Leipzig,injuries,7206,"Poulsen, Yussuf",Ankle Injury,2020-05-25,?
+Europe,Germany,Bundesliga,2020,RB Leipzig,injuries,23806,"Konate, Ibrahima",Hip Injury,2020-07-20,?
+Europe,Germany,Bundesliga,2020,RB Leipzig,suspensions,13489,"Henrichs, Benjamin",No eligibility,2020-07-15,?
+Europe,Germany,Bundesliga,2020,RB Leipzig,suspensions,2266,"Hwang, Hee-chan",No eligibility,2020-07-15,2020-08-31
+Europe,Germany,Bundesliga,2020,SC Freiburg,injuries,12090,"Gulde, Manuel",Torn Muscle Fibre,2020-06-03,?
+Europe,Germany,Bundesliga,2020,VfL Wolfsburg,injuries,82795,"Camacho, Ignacio",Ankle problems,2018-10-25,2020-09-30
+Europe,Germany,Bundesliga,2020,VfL Wolfsburg,injuries,1606,"Karamoko, Mamoudou",Knee Surgery,2020-05-18,?
+Europe,Germany,Bundesliga,2020,VfL Wolfsburg,suspensions,82796,"Guilavogui, Josuha",Yellow card suspension,2020-06-18,2020-06-21
+Europe,Germany,Bundesliga,2020,Werder Bremen,injuries,82803,"Mohwald, Kevin",Knee Surgery,2019-08-31,?
+Europe,Germany,Bundesliga,2020,Werder Bremen,injuries,78087,"Beste, Jan-Niklas",Knee Surgery,2019-11-24,?
+Europe,Germany,Bundesliga,2020,Werder Bremen,suspensions,9127,"Moisander, Niklas",Indirect card suspension,2020-07-03,2020-07-07
+Europe,Germany,Bundesliga,2019,Bayer 04 Leverkusen,injuries,1561,"Havertz, Kai",Muscular problems,2020-06-06,?
+Europe,Germany,Bundesliga,2019,Borussia Dortmund,injuries,13186,"Zagadou, Dan-Axel",Knee Problems,2020-08-14,?
+Europe,Germany,Bundesliga,2019,Borussia Dortmund,injuries,19989,"Reus, Marco",Tendonitis,2020-07-30,?
+Europe,Germany,Bundesliga,2019,Borussia Dortmund,injuries,13197,"Schmelzer,Marcel",Knee Surgery,2020-07-15,?
+Europe,Germany,Bundesliga,2019,Borussia Dortmund,suspensions,137486,"Moukoko, Youssoufa",No eligibility,2020-07-01,2020-11-20
+Europe,Germany,Bundesliga,2019,Borussia Monchengladbach,injuries,16622,"Johnson, Fabian",Muscular problems,2020-05-11,?
+Europe,Germany,Bundesliga,2019,Borussia Monchengladbach,injuries,13165,"Strobl, Tobias",Torn Muscle Fibre,2020-05-24,?
+Europe,Germany,Bundesliga,2019,Borussia Monchengladbach,injuries,13178,"Plea, Alassane",Tear in the abductor muscle,2020-06-13,?
+Europe,Germany,Bundesliga,2019,Borussia Monchengladbach,injuries,13173,"Thuram, Marcus",Ankle Injury,2020-06-14,?
+Europe,Germany,Bundesliga,2019,Eintracht Frankfurt,injuries,82848,"Fernandes, Gelson",Calf Injury,2020-05-31,2020-06-30
+Europe,Germany,Bundesliga,2019,Eintracht Frankfurt,suspensions,5627,"Kostic, Filip",Red card suspension,2020-03-05,?
+Europe,Germany,Bundesliga,2019,Eintracht Frankfurt,suspensions,5622,"Kamada, Daichi",Yellow card suspension,2020-06-18,2020-06-21
+Europe,Germany,Bundesliga,2019,Eintracht Frankfurt,suspensions,8593,"Zalazar Martinez, Rodrigo",No eligibility,2020-04-30,2020-06-30
+Europe,Germany,Bundesliga,2019,FC Bayern Munich,injuries,17323,"Pavard, Benjamin",Ligament Injury,2020-07-26,?
+Europe,Germany,Bundesliga,2019,RB Leipzig,injuries,7206,"Poulsen, Yussuf",Ankle Injury,2020-05-25,?
+Europe,Germany,Bundesliga,2019,RB Leipzig,injuries,23806,"Konate, Ibrahima",Hip Injury,2020-07-20,?
+Europe,Germany,Bundesliga,2019,RB Leipzig,suspensions,13489,"Henrichs, Benjamin",No eligibility,2020-07-15,?
+Europe,Germany,Bundesliga,2019,RB Leipzig,suspensions,2266,"Hwang, Hee-chan",No eligibility,2020-07-15,2020-08-31
+Europe,Germany,Bundesliga,2019,SC Freiburg,injuries,12090,"Gulde, Manuel",Torn Muscle Fibre,2020-06-03,?
+Europe,Germany,Bundesliga,2019,SC Paderborn 07,?,10331,"Vasiliadis, Sebastian",,?,?
+Europe,Germany,Bundesliga,2019,SC Paderborn 07,?,10340,"Hunemeier, Uwe",,?,?
+Europe,Germany,Bundesliga,2019,SC Paderborn 07,?,19993,"Mamba, Streli",,?,?
+Europe,Germany,Bundesliga,2019,SC Paderborn 07,?,10336,"Michel, Sven",,?,?
+Europe,Germany,Bundesliga,2019,SC Paderborn 07,?,10339,"Sabiri, Abdelhamid",,?,?
+Europe,Germany,Bundesliga,2019,VfL Wolfsburg,injuries,82795,"Camacho, Ignacio",Ankle problems,2018-10-25,2020-09-30
+Europe,Germany,Bundesliga,2019,VfL Wolfsburg,injuries,1606,"Karamoko, Mamoudou",Knee Surgery,2020-05-18,?
+Europe,Germany,Bundesliga,2019,VfL Wolfsburg,suspensions,82796,"Guilavogui, Josuha",Yellow card suspension,2020-06-18,2020-06-21
+Europe,Germany,Bundesliga,2019,Werder Bremen,injuries,82803,"Mohwald, Kevin",Knee Surgery,2019-08-31,?
+Europe,Germany,Bundesliga,2019,Werder Bremen,injuries,78087,"Beste, Jan-Niklas",Knee Surgery,2019-11-24,?
+Europe,Germany,Bundesliga,2019,Werder Bremen,suspensions,9127,"Moisander, Niklas",Indirect card suspension,2020-07-03,2020-07-07
+Europe,Germany,Bundesliga,2018,Bayer 04 Leverkusen,injuries,1561,"Havertz, Kai",Muscular problems,2020-06-06,?
+Europe,Germany,Bundesliga,2018,Borussia Dortmund,injuries,13186,"Zagadou, Dan-Axel",Knee Problems,2020-08-14,?
+Europe,Germany,Bundesliga,2018,Borussia Dortmund,injuries,19989,"Reus, Marco",Tendonitis,2020-07-30,?
+Europe,Germany,Bundesliga,2018,Borussia Dortmund,injuries,13197,"Schmelzer,Marcel",Knee Surgery,2020-07-15,?
+Europe,Germany,Bundesliga,2018,Borussia Dortmund,suspensions,137486,"Moukoko, Youssoufa",No eligibility,2020-07-01,2020-11-20
+Europe,Germany,Bundesliga,2018,Borussia Monchengladbach,injuries,16622,"Johnson, Fabian",Muscular problems,2020-05-11,?
+Europe,Germany,Bundesliga,2018,Borussia Monchengladbach,injuries,13165,"Strobl, Tobias",Torn Muscle Fibre,2020-05-24,?
+Europe,Germany,Bundesliga,2018,Borussia Monchengladbach,injuries,13178,"Plea, Alassane",Tear in the abductor muscle,2020-06-13,?
+Europe,Germany,Bundesliga,2018,Borussia Monchengladbach,injuries,13173,"Thuram, Marcus",Ankle Injury,2020-06-14,?
+Europe,Germany,Bundesliga,2018,Eintracht Frankfurt,injuries,82848,"Fernandes, Gelson",Calf Injury,2020-05-31,2020-06-30
+Europe,Germany,Bundesliga,2018,Eintracht Frankfurt,suspensions,5627,"Kostic, Filip",Red card suspension,2020-03-05,?
+Europe,Germany,Bundesliga,2018,Eintracht Frankfurt,suspensions,5622,"Kamada, Daichi",Yellow card suspension,2020-06-18,2020-06-21
+Europe,Germany,Bundesliga,2018,Eintracht Frankfurt,suspensions,8593,"Zalazar Martinez, Rodrigo",No eligibility,2020-04-30,2020-06-30
+Europe,Germany,Bundesliga,2018,FC Bayern Munich,injuries,17323,"Pavard, Benjamin",Ligament Injury,2020-07-26,?
+Europe,Germany,Bundesliga,2018,Hannover 96,?,83702,Felipe,,?,?
+Europe,Germany,Bundesliga,2018,RB Leipzig,injuries,7206,"Poulsen, Yussuf",Ankle Injury,2020-05-25,?
+Europe,Germany,Bundesliga,2018,RB Leipzig,injuries,23806,"Konate, Ibrahima",Hip Injury,2020-07-20,?
+Europe,Germany,Bundesliga,2018,RB Leipzig,suspensions,13489,"Henrichs, Benjamin",No eligibility,2020-07-15,?
+Europe,Germany,Bundesliga,2018,RB Leipzig,suspensions,2266,"Hwang, Hee-chan",No eligibility,2020-07-15,2020-08-31
+Europe,Germany,Bundesliga,2018,SC Freiburg,injuries,12090,"Gulde, Manuel",Torn Muscle Fibre,2020-06-03,?
+Europe,Germany,Bundesliga,2018,VfL Wolfsburg,injuries,82795,"Camacho, Ignacio",Ankle problems,2018-10-25,2020-09-30
+Europe,Germany,Bundesliga,2018,VfL Wolfsburg,injuries,1606,"Karamoko, Mamoudou",Knee Surgery,2020-05-18,?
+Europe,Germany,Bundesliga,2018,VfL Wolfsburg,suspensions,82796,"Guilavogui, Josuha",Yellow card suspension,2020-06-18,2020-06-21
+Europe,Germany,Bundesliga,2018,Werder Bremen,injuries,82803,"Mohwald, Kevin",Knee Surgery,2019-08-31,?
+Europe,Germany,Bundesliga,2018,Werder Bremen,injuries,78087,"Beste, Jan-Niklas",Knee Surgery,2019-11-24,?
+Europe,Germany,Bundesliga,2018,Werder Bremen,suspensions,9127,"Moisander, Niklas",Indirect card suspension,2020-07-03,2020-07-07
+Europe,Italy,Serie A,2020,ACF Fiorentina,injuries,20154,"Kouame, Christian",Cruciate Ligament Rupture,2019-11-16,2020-07-15
+Europe,Italy,Serie A,2020,ACF Fiorentina,suspensions,15459,"Vlahovic, Dusan",Red card suspension,2020-06-28,2020-07-06
+Europe,Italy,Serie A,2020,ACF Fiorentina,suspensions,15567,"Rasmussen, Jacob",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2020,ACF Fiorentina,suspensions,1740,"Zekhnini, Rafik",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2020,Atalanta Bergamasca Calcio,injuries,13064,"Gollini, Pierluigi",Cruciate Ligament Injury,2020-08-02,2020-10-05
+Europe,Italy,Serie A,2020,Atalanta Bergamasca Calcio,suspensions,7052,"Ilicic, Josip",special leave,2020-07-13,?
+Europe,Italy,Serie A,2020,Benevento Calcio,injuries,75738,"Antei, Luca",Cruciate Ligament Rupture,2019-12-30,2020-08-31
+Europe,Italy,Serie A,2020,FC Crotone,suspensions,2489,"Benali, Ahmad",Indirect card suspension,2019-08-19,?
+Europe,Italy,Serie A,2020,FC Crotone,suspensions,23284,"Romero, Aristoteles",No eligibility,2020-06-30,2020-07-31
+Europe,Italy,Serie A,2020,FC Crotone,suspensions,2485,"Cuomo, Giuseppe",No eligibility,2020-06-30,2020-07-31
+Europe,Italy,Serie A,2020,FC Crotone,suspensions,161456,"Markovic, Luka",No eligibility,2020-06-30,2020-07-31
+Europe,Italy,Serie A,2020,FC Crotone,suspensions,139921,"Viscovo, Aniello",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2020,FC Crotone,suspensions,19941,"Giannotti, Pasquale",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2020,FC Crotone,suspensions,75442,"Garattoni, Alessandro",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2020,Inter Milano,injuries,9639,"Sensi, Stefano",Biceps femoris muscle injury,2020-06-19,2020-07-19
+Europe,Italy,Serie A,2020,Inter Milano,injuries,9646,"Vecino, Matias",Meniscal Injury,2020-06-12,?
+Europe,Italy,Serie A,2020,Inter Milano,injuries,9638,"Brozovic, Marcelo",Calf Problems,2020-06-19,?
+Europe,Italy,Serie A,2020,Inter Milano,suspensions,9633,"Skriniar, Milan",Indirect card suspension,2020-06-25,2020-06-29
+Europe,Italy,Serie A,2020,Juventus Turin,injuries,20174,"Demiral, Merih",Cruciate Ligament Rupture,2020-01-12,2020-07-12
+Europe,Italy,Serie A,2020,Juventus Turin,injuries,8937,"Ramsey, Aaron",Unknown Injury,2020-06-06,?
+Europe,Italy,Serie A,2020,Juventus Turin,injuries,8948,"Higuain, Gonzalo",Muscular problems,2020-06-04,?
+Europe,Italy,Serie A,2020,Juventus Turin,injuries,17853,"Chiellini, Giorgio",Fitness,2020-06-01,?
+Europe,Italy,Serie A,2020,Spezia Calcio,suspensions,139999,"Bordin, Alessandro",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2020,Spezia Calcio,suspensions,139872,"Buffonge, DJ",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2020,SS Lazio Roma,injuries,29742,"Lulic, Senad",Ankle Surgery,2020-02-07,?
+Europe,Italy,Serie A,2020,SS Lazio Roma,injuries,423,"Correa, Joaquin",Sideband injury,2020-07-05,2020-07-31
+Europe,Italy,Serie A,2020,SS Lazio Roma,injuries,625,"Marusic, Adam",Thigh Muscle Strain,2020-07-01,?
+Europe,Italy,Serie A,2020,SS Lazio Roma,suspensions,17221,"Di Gennaro, Davide",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2020,SS Lazio Roma,suspensions,7485,"Durmisi, Riza",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2020,SSC Napoli,injuries,9622,"Meret, Alex",Stomach complaints,2020-08-01,2020-08-04
+Europe,Italy,Serie A,2020,SSC Napoli,suspensions,9624,"Llorente, Fernando",No eligibility,2020-07-18,2020-08-03
+Europe,Italy,Serie A,2020,SSC Napoli,suspensions,23812,"Younes, Amin",No eligibility,2020-02-03,?
+Europe,Italy,Serie A,2020,SSC Napoli,suspensions,17199,"Ghoulam, Faouzi",No eligibility,2020-02-03,?
+Europe,Italy,Serie A,2020,SSC Napoli,suspensions,95669,Leandrinho,No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2020,SSC Napoli,suspensions,7480,"Ounas, Adam",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2020,US Sassuolo Calcio,injuries,17147,"Romagna, Filippo",Patella rupture,2020-03-06,2020-12-15
+Europe,Italy,Serie A,2019,ACF Fiorentina,injuries,20154,"Kouame, Christian",Cruciate Ligament Rupture,2019-11-16,2020-07-15
+Europe,Italy,Serie A,2019,ACF Fiorentina,suspensions,15459,"Vlahovic, Dusan",Red card suspension,2020-06-28,2020-07-06
+Europe,Italy,Serie A,2019,ACF Fiorentina,suspensions,15567,"Rasmussen, Jacob",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2019,ACF Fiorentina,suspensions,1740,"Zekhnini, Rafik",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2019,Atalanta Bergamasca Calcio,injuries,13064,"Gollini, Pierluigi",Cruciate Ligament Injury,2020-08-02,2020-10-05
+Europe,Italy,Serie A,2019,Atalanta Bergamasca Calcio,suspensions,7052,"Ilicic, Josip",special leave,2020-07-13,?
+Europe,Italy,Serie A,2019,Inter Milano,injuries,9639,"Sensi, Stefano",Biceps femoris muscle injury,2020-06-19,2020-07-19
+Europe,Italy,Serie A,2019,Inter Milano,injuries,9646,"Vecino, Matias",Meniscal Injury,2020-06-12,?
+Europe,Italy,Serie A,2019,Inter Milano,injuries,9638,"Brozovic, Marcelo",Calf Problems,2020-06-19,?
+Europe,Italy,Serie A,2019,Inter Milano,suspensions,9633,"Skriniar, Milan",Indirect card suspension,2020-06-25,2020-06-29
+Europe,Italy,Serie A,2019,Juventus Turin,injuries,20174,"Demiral, Merih",Cruciate Ligament Rupture,2020-01-12,2020-07-12
+Europe,Italy,Serie A,2019,Juventus Turin,injuries,8937,"Ramsey, Aaron",Unknown Injury,2020-06-06,?
+Europe,Italy,Serie A,2019,Juventus Turin,injuries,8948,"Higuain, Gonzalo",Muscular problems,2020-06-04,?
+Europe,Italy,Serie A,2019,Juventus Turin,injuries,17853,"Chiellini, Giorgio",Fitness,2020-06-01,?
+Europe,Italy,Serie A,2019,SS Lazio Roma,injuries,29742,"Lulic, Senad",Ankle Surgery,2020-02-07,?
+Europe,Italy,Serie A,2019,SS Lazio Roma,injuries,423,"Correa, Joaquin",Sideband injury,2020-07-05,2020-07-31
+Europe,Italy,Serie A,2019,SS Lazio Roma,injuries,625,"Marusic, Adam",Thigh Muscle Strain,2020-07-01,?
+Europe,Italy,Serie A,2019,SS Lazio Roma,suspensions,17221,"Di Gennaro, Davide",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2019,SS Lazio Roma,suspensions,7485,"Durmisi, Riza",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2019,SSC Napoli,injuries,9622,"Meret, Alex",Stomach complaints,2020-08-01,2020-08-04
+Europe,Italy,Serie A,2019,SSC Napoli,suspensions,9624,"Llorente, Fernando",No eligibility,2020-07-18,2020-08-03
+Europe,Italy,Serie A,2019,SSC Napoli,suspensions,23812,"Younes, Amin",No eligibility,2020-02-03,?
+Europe,Italy,Serie A,2019,SSC Napoli,suspensions,17199,"Ghoulam, Faouzi",No eligibility,2020-02-03,?
+Europe,Italy,Serie A,2019,SSC Napoli,suspensions,95669,Leandrinho,No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2019,SSC Napoli,suspensions,7480,"Ounas, Adam",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2019,US Sassuolo Calcio,injuries,17147,"Romagna, Filippo",Patella rupture,2020-03-06,2020-12-15
+Europe,Italy,Serie A,2018,AC Chievo Verona,injuries,7304,"Tanasijevic, Strahinja",Fractured Leg,2020-06-07,2020-07-31
+Europe,Italy,Serie A,2018,AC Chievo Verona,suspensions,75066,"Bertagnoli, Massimo",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2018,ACF Fiorentina,injuries,20154,"Kouame, Christian",Cruciate Ligament Rupture,2019-11-16,2020-07-15
+Europe,Italy,Serie A,2018,ACF Fiorentina,suspensions,15459,"Vlahovic, Dusan",Red card suspension,2020-06-28,2020-07-06
+Europe,Italy,Serie A,2018,ACF Fiorentina,suspensions,15567,"Rasmussen, Jacob",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2018,ACF Fiorentina,suspensions,1740,"Zekhnini, Rafik",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2018,Atalanta Bergamasca Calcio,injuries,13064,"Gollini, Pierluigi",Cruciate Ligament Injury,2020-08-02,2020-10-05
+Europe,Italy,Serie A,2018,Atalanta Bergamasca Calcio,suspensions,7052,"Ilicic, Josip",special leave,2020-07-13,?
+Europe,Italy,Serie A,2018,FC Empoli,suspensions,2040,"Mraz, Samuel",No eligibility,2020-07-31,2020-08-31
+Europe,Italy,Serie A,2018,FC Empoli,suspensions,1410,"Marcjanik, Michal",No eligibility,2020-07-31,2020-08-31
+Europe,Italy,Serie A,2018,Frosinone Calcio,injuries,16726,"Tabanelli, Andrea",Ankle Injury,2020-07-02,?
+Europe,Italy,Serie A,2018,Frosinone Calcio,injuries,11929,"Zampano, Francesco",Calf Problems,2020-07-21,?
+Europe,Italy,Serie A,2018,Frosinone Calcio,injuries,6335,"Capuano, Marco",Thigh Problems,2020-07-21,?
+Europe,Italy,Serie A,2018,Frosinone Calcio,suspensions,75171,"Besea, Emmanuel",No eligibility,2020-06-30,2020-08-03
+Europe,Italy,Serie A,2018,Inter Milano,injuries,9639,"Sensi, Stefano",Biceps femoris muscle injury,2020-06-19,2020-07-19
+Europe,Italy,Serie A,2018,Inter Milano,injuries,9646,"Vecino, Matias",Meniscal Injury,2020-06-12,?
+Europe,Italy,Serie A,2018,Inter Milano,injuries,9638,"Brozovic, Marcelo",Calf Problems,2020-06-19,?
+Europe,Italy,Serie A,2018,Inter Milano,suspensions,9633,"Skriniar, Milan",Indirect card suspension,2020-06-25,2020-06-29
+Europe,Italy,Serie A,2018,Juventus Turin,injuries,20174,"Demiral, Merih",Cruciate Ligament Rupture,2020-01-12,2020-07-12
+Europe,Italy,Serie A,2018,Juventus Turin,injuries,8937,"Ramsey, Aaron",Unknown Injury,2020-06-06,?
+Europe,Italy,Serie A,2018,Juventus Turin,injuries,8948,"Higuain, Gonzalo",Muscular problems,2020-06-04,?
+Europe,Italy,Serie A,2018,Juventus Turin,injuries,17853,"Chiellini, Giorgio",Fitness,2020-06-01,?
+Europe,Italy,Serie A,2018,SS Lazio Roma,injuries,29742,"Lulic, Senad",Ankle Surgery,2020-02-07,?
+Europe,Italy,Serie A,2018,SS Lazio Roma,injuries,423,"Correa, Joaquin",Sideband injury,2020-07-05,2020-07-31
+Europe,Italy,Serie A,2018,SS Lazio Roma,injuries,625,"Marusic, Adam",Thigh Muscle Strain,2020-07-01,?
+Europe,Italy,Serie A,2018,SS Lazio Roma,suspensions,17221,"Di Gennaro, Davide",No eligibility,2020-07-01,2020-08-31
+Europe,Italy,Serie A,2018,SS Lazio Roma,suspensions,7485,"Durmisi, Riza",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2018,SSC Napoli,injuries,9622,"Meret, Alex",Stomach complaints,2020-08-01,2020-08-04
+Europe,Italy,Serie A,2018,SSC Napoli,suspensions,9624,"Llorente, Fernando",No eligibility,2020-07-18,2020-08-03
+Europe,Italy,Serie A,2018,SSC Napoli,suspensions,23812,"Younes, Amin",No eligibility,2020-02-03,?
+Europe,Italy,Serie A,2018,SSC Napoli,suspensions,17199,"Ghoulam, Faouzi",No eligibility,2020-02-03,?
+Europe,Italy,Serie A,2018,SSC Napoli,suspensions,95669,Leandrinho,No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2018,SSC Napoli,suspensions,7480,"Ounas, Adam",No eligibility,2020-06-30,2020-08-31
+Europe,Italy,Serie A,2018,US Sassuolo Calcio,injuries,17147,"Romagna, Filippo",Patella rupture,2020-03-06,2020-12-15
+Europe,Portugal,Primeira Liga,2020,FC Famalicao,?,8244,"Martins, Fabio",,?,?
+Europe,Portugal,Primeira Liga,2020,FC Porto,suspensions,3789,"Telles, Alex",Yellow card suspension,2020-03-09,?
+Europe,Portugal,Primeira Liga,2020,Sl Benfica,injuries,13252,"Grimaldo, Alex",Unknown Injury,2020-06-11,?
+Europe,Portugal,Primeira Liga,2020,Sl Benfica,injuries,8023,"Taarabt, Adel",Injury to the ankle,2020-06-28,?
+Europe,Portugal,Primeira Liga,2019,CD das Aves,injuries,74742,"Simunec, Andrej",Ankle problems,2019-09-26,?
+Europe,Portugal,Primeira Liga,2019,FC Famalicao,?,8244,"Martins, Fabio",,?,?
+Europe,Portugal,Primeira Liga,2019,FC Porto,suspensions,3789,"Telles, Alex",Yellow card suspension,2020-03-09,?
+Europe,Portugal,Primeira Liga,2019,Sl Benfica,injuries,13252,"Grimaldo, Alex",Unknown Injury,2020-06-11,?
+Europe,Portugal,Primeira Liga,2019,Sl Benfica,injuries,8023,"Taarabt, Adel",Injury to the ankle,2020-06-28,?
+Europe,Portugal,Primeira Liga,2018,CD das Aves,injuries,74742,"Simunec, Andrej",Ankle problems,2019-09-26,?
+Europe,Portugal,Primeira Liga,2018,FC Porto,suspensions,3789,"Telles, Alex",Yellow card suspension,2020-03-09,?
+Europe,Portugal,Primeira Liga,2018,Sl Benfica,injuries,13252,"Grimaldo, Alex",Unknown Injury,2020-06-11,?
+Europe,Portugal,Primeira Liga,2018,Sl Benfica,injuries,8023,"Taarabt, Adel",Injury to the ankle,2020-06-28,?
+Europe,Russia,Russia Premier League,2020,FC Lokomotiv Moscow,?,17775,"Krychowiak, Grzegorz",,?,?
+Europe,Russia,Russia Premier League,2020,FC Zenit St Petersburg,injuries,9275,"Lunev, Andrey",Pelvis Injury,2020-07-11,2020-08-20
+Europe,Russia,Russia Premier League,2019,FC Lokomotiv Moscow,?,17775,"Krychowiak, Grzegorz",,?,?
+Europe,Russia,Russia Premier League,2019,FC Zenit St Petersburg,injuries,9275,"Lunev, Andrey",Pelvis Injury,2020-07-11,2020-08-20
+Europe,Russia,Russia Premier League,2018,FC Lokomotiv Moscow,?,17775,"Krychowiak, Grzegorz",,?,?
+Europe,Russia,Russia Premier League,2018,FC Zenit St Petersburg,injuries,9275,"Lunev, Andrey",Pelvis Injury,2020-07-11,2020-08-20
+Europe,Spain,LaLiga,2020,Athletic Bilbao,?,517,"Berchiche, Yuri",,?,?
+Europe,Spain,LaLiga,2020,Atletico Madrid,injuries,524,"Vrsaljko, Sime",Knee Injury,2020-06-03,?
+Europe,Spain,LaLiga,2020,Atletico Madrid,injuries,354,"Hermoso, Mario",Knock,2020-07-03,?
+Europe,Spain,LaLiga,2020,CF Valencia,injuries,23817,"Piccini, Cristiano",Fractured Kneecap,2019-08-28,?
+Europe,Spain,LaLiga,2020,CF Valencia,injuries,23816,"Garay, Ezequiel",Cruciate Ligament Rupture,2020-02-02,2020-08-02
+Europe,Spain,LaLiga,2020,CF Valencia,injuries,10944,"Coquelin, Francis",Muscle Injury,2020-06-19,?
+Europe,Spain,LaLiga,2020,CF Villarreal,injuries,23962,"Soriano, Bruno",Leg Injury,2017-07-03,?
+Europe,Spain,LaLiga,2020,CF Villarreal,injuries,23966,"Morlanes, Manu",Arch pain,2020-02-02,?
+Europe,Spain,LaLiga,2020,FC Barcelona,injuries,20269,"Dembele, Ousmane",Hamstring Injury,2020-02-04,2020-08-04
+Europe,Spain,LaLiga,2020,FC Barcelona,injuries,13156,"Umtiti, Samuel",Knee Problems,2020-07-03,?
+Europe,Spain,LaLiga,2020,FC Barcelona,injuries,6746,"Griezmann, Antoine",Muscle Injury,2020-07-11,2020-08-01
+Europe,Spain,LaLiga,2020,FC Barcelona,injuries,12115,"Todibo, Jean-Clair",Groin Injury,2020-06-07,?
+Europe,Spain,LaLiga,2020,FC Barcelona,suspensions,13157,"Busquets, Sergio",Yellow card suspension,2020-02-26,2020-08-08
+Europe,Spain,LaLiga,2020,FC Sevilla,?,403,"Vazquez, Franco",,?,?
+Europe,Spain,LaLiga,2020,Granada CF,injuries,23973,Quini,Cruciate Ligament Rupture,2019-12-08,2020-07-08
+Europe,Spain,LaLiga,2020,Real Madrid,injuries,5256,"Modric, Luka",Quarantine,2020-07-08,2020-07-22
+Europe,Spain,LaLiga,2020,Real Madrid,suspensions,5263,"Ramos, Sergio",Red card suspension,2020-02-27,2020-08-08
+Europe,Spain,LaLiga,2019,Athletic Bilbao,?,517,"Berchiche, Yuri",,?,?
+Europe,Spain,LaLiga,2019,Atletico Madrid,injuries,524,"Vrsaljko, Sime",Knee Injury,2020-06-03,?
+Europe,Spain,LaLiga,2019,Atletico Madrid,injuries,354,"Hermoso, Mario",Knock,2020-07-03,?
+Europe,Spain,LaLiga,2019,CF Valencia,injuries,23817,"Piccini, Cristiano",Fractured Kneecap,2019-08-28,?
+Europe,Spain,LaLiga,2019,CF Valencia,injuries,23816,"Garay, Ezequiel",Cruciate Ligament Rupture,2020-02-02,2020-08-02
+Europe,Spain,LaLiga,2019,CF Valencia,injuries,10944,"Coquelin, Francis",Muscle Injury,2020-06-19,?
+Europe,Spain,LaLiga,2019,CF Villarreal,injuries,23962,"Soriano, Bruno",Leg Injury,2017-07-03,?
+Europe,Spain,LaLiga,2019,CF Villarreal,injuries,23966,"Morlanes, Manu",Arch pain,2020-02-02,?
+Europe,Spain,LaLiga,2019,FC Barcelona,injuries,20269,"Dembele, Ousmane",Hamstring Injury,2020-02-04,2020-08-04
+Europe,Spain,LaLiga,2019,FC Barcelona,injuries,13156,"Umtiti, Samuel",Knee Problems,2020-07-03,?
+Europe,Spain,LaLiga,2019,FC Barcelona,injuries,6746,"Griezmann, Antoine",Muscle Injury,2020-07-11,2020-08-01
+Europe,Spain,LaLiga,2019,FC Barcelona,injuries,12115,"Todibo, Jean-Clair",Groin Injury,2020-06-07,?
+Europe,Spain,LaLiga,2019,FC Barcelona,suspensions,13157,"Busquets, Sergio",Yellow card suspension,2020-02-26,2020-08-08
+Europe,Spain,LaLiga,2019,FC Sevilla,?,403,"Vazquez, Franco",,?,?
+Europe,Spain,LaLiga,2019,Granada CF,injuries,23973,Quini,Cruciate Ligament Rupture,2019-12-08,2020-07-08
+Europe,Spain,LaLiga,2019,RCD Espanyol Barcelona,?,579,"Espinosa, Bernardo",,?,?
+Europe,Spain,LaLiga,2019,RCD Espanyol Barcelona,?,23988,Naldo,,?,?
+Europe,Spain,LaLiga,2019,RCD Espanyol Barcelona,?,386,"Calero, Fernando",,?,?
+Europe,Spain,LaLiga,2019,Real Madrid,injuries,5256,"Modric, Luka",Quarantine,2020-07-08,2020-07-22
+Europe,Spain,LaLiga,2019,Real Madrid,suspensions,5263,"Ramos, Sergio",Red card suspension,2020-02-27,2020-08-08
+Europe,Spain,LaLiga,2018,Athletic Bilbao,?,517,"Berchiche, Yuri",,?,?
+Europe,Spain,LaLiga,2018,Atletico Madrid,injuries,524,"Vrsaljko, Sime",Knee Injury,2020-06-03,?
+Europe,Spain,LaLiga,2018,Atletico Madrid,injuries,354,"Hermoso, Mario",Knock,2020-07-03,?
+Europe,Spain,LaLiga,2018,CF Valencia,injuries,23817,"Piccini, Cristiano",Fractured Kneecap,2019-08-28,?
+Europe,Spain,LaLiga,2018,CF Valencia,injuries,23816,"Garay, Ezequiel",Cruciate Ligament Rupture,2020-02-02,2020-08-02
+Europe,Spain,LaLiga,2018,CF Valencia,injuries,10944,"Coquelin, Francis",Muscle Injury,2020-06-19,?
+Europe,Spain,LaLiga,2018,CF Villarreal,injuries,23962,"Soriano, Bruno",Leg Injury,2017-07-03,?
+Europe,Spain,LaLiga,2018,CF Villarreal,injuries,23966,"Morlanes, Manu",Arch pain,2020-02-02,?
+Europe,Spain,LaLiga,2018,FC Barcelona,injuries,20269,"Dembele, Ousmane",Hamstring Injury,2020-02-04,2020-08-04
+Europe,Spain,LaLiga,2018,FC Barcelona,injuries,13156,"Umtiti, Samuel",Knee Problems,2020-07-03,?
+Europe,Spain,LaLiga,2018,FC Barcelona,injuries,6746,"Griezmann, Antoine",Muscle Injury,2020-07-11,2020-08-01
+Europe,Spain,LaLiga,2018,FC Barcelona,injuries,12115,"Todibo, Jean-Clair",Groin Injury,2020-06-07,?
+Europe,Spain,LaLiga,2018,FC Barcelona,suspensions,13157,"Busquets, Sergio",Yellow card suspension,2020-02-26,2020-08-08
+Europe,Spain,LaLiga,2018,FC Sevilla,?,403,"Vazquez, Franco",,?,?
+Europe,Spain,LaLiga,2018,RCD Espanyol Barcelona,?,579,"Espinosa, Bernardo",,?,?
+Europe,Spain,LaLiga,2018,RCD Espanyol Barcelona,?,23988,Naldo,,?,?
+Europe,Spain,LaLiga,2018,RCD Espanyol Barcelona,?,386,"Calero, Fernando",,?,?
+Europe,Spain,LaLiga,2018,Real Madrid,injuries,5256,"Modric, Luka",Quarantine,2020-07-08,2020-07-22
+Europe,Spain,LaLiga,2018,Real Madrid,suspensions,5263,"Ramos, Sergio",Red card suspension,2020-02-27,2020-08-08
+Europe,Sweden,Allsvenskan,2020,AIK,?,22409,"Mets, Karol",,?,?
+Europe,Sweden,Allsvenskan,2020,BK Hacken,injuries,38610,"Yakob, Kevin",Cruciate Ligament Rupture,2019-07-20,?
+Europe,Sweden,Allsvenskan,2020,Helsingborgs IF,?,5392,"van den Hurk, Anthony",,?,?
+Europe,Sweden,Allsvenskan,2020,IFK Goteborg,injuries,14614,"Calisir, Andre",Unknown Injury,2020-07-06,2020-07-31
+Europe,Sweden,Allsvenskan,2020,IK Brage,?,17568,"Hiltunen, Lukas",,?,?
+Europe,Sweden,Allsvenskan,2020,IK Sirius FK,?,11137,"Andersson, Elias",,?,?
+Europe,Sweden,Allsvenskan,2020,Kalmar FF,suspensions,795,"Ingelsson, Svante",No eligibility,2020-06-30,2020-08-31
+Europe,Sweden,Allsvenskan,2020,Malmo FF,injuries,21602,"Bengtsson, Rasmus",Knee Injury,2020-06-12,?
+Europe,Sweden,Allsvenskan,2020,Mjallby AIF,?,21883,"Nilsson, Joel",,?,?
+Europe,Sweden,Allsvenskan,2020,Orebro SK,?,17618,"Skovgaard, Andreas",,?,?
+Europe,Sweden,Allsvenskan,2019,AIK,?,22409,"Mets, Karol",,?,?
+Europe,Sweden,Allsvenskan,2019,BK Hacken,injuries,38610,"Yakob, Kevin",Cruciate Ligament Rupture,2019-07-20,?
+Europe,Sweden,Allsvenskan,2019,Helsingborgs IF,?,5392,"van den Hurk, Anthony",,?,?
+Europe,Sweden,Allsvenskan,2019,IFK Goteborg,injuries,14614,"Calisir, Andre",Unknown Injury,2020-07-06,2020-07-31
+Europe,Sweden,Allsvenskan,2019,IK Brage,?,17568,"Hiltunen, Lukas",,?,?
+Europe,Sweden,Allsvenskan,2019,IK Sirius FK,?,11137,"Andersson, Elias",,?,?
+Europe,Sweden,Allsvenskan,2019,Kalmar FF,suspensions,795,"Ingelsson, Svante",No eligibility,2020-06-30,2020-08-31
+Europe,Sweden,Allsvenskan,2019,Malmo FF,injuries,21602,"Bengtsson, Rasmus",Knee Injury,2020-06-12,?
+Europe,Sweden,Allsvenskan,2019,Orebro SK,?,17618,"Skovgaard, Andreas",,?,?
+North America,Mexico,Liga MX - Apertura,2020,CF America,injuries,102967,"Benedetti, Nicolas",Ruptured knee ligament,2020-02-22,2020-09-15
+North America,Mexico,Liga MX - Apertura,2020,CF Monterrey,injuries,93243,"Hurtado, Aviles",Hamstring Injury,2020-07-28,2020-08-11
+North America,Mexico,Liga MX - Apertura,2020,CF Pachuca,?,105,Kazim,,?,?
+North America,Mexico,Liga MX - Apertura,2020,Cruz Azul,injuries,102861,"Aguilar, Pablo",Sideband tear,2020-02-20,?
+North America,Mexico,Liga MX - Apertura,2020,Deportivo Toluca FC,?,151,"Guemez, Javier",,?,?
+North America,Mexico,Liga MX - Apertura,2020,Pumas Unam,?,161914,"Zamudio, Alejandro",,?,?
+North America,Mexico,Liga MX - Apertura,2019,CF America,injuries,102967,"Benedetti, Nicolas",Ruptured knee ligament,2020-02-22,2020-09-15
+North America,Mexico,Liga MX - Apertura,2019,CF Monterrey,injuries,93243,"Hurtado, Aviles",Hamstring Injury,2020-07-28,2020-08-11
+North America,Mexico,Liga MX - Apertura,2019,CF Pachuca,?,105,Kazim,,?,?
+North America,Mexico,Liga MX - Apertura,2019,Cruz Azul,injuries,102861,"Aguilar, Pablo",Sideband tear,2020-02-20,?
+North America,Mexico,Liga MX - Apertura,2019,Deportivo Toluca FC,?,151,"Guemez, Javier",,?,?
+North America,Mexico,Liga MX - Apertura,2019,Pumas Unam,?,161914,"Zamudio, Alejandro",,?,?
+North America,Mexico,Liga MX - Apertura,2018,CF America,injuries,102967,"Benedetti, Nicolas",Ruptured knee ligament,2020-02-22,2020-09-15
+North America,Mexico,Liga MX - Apertura,2018,CF Monterrey,injuries,93243,"Hurtado, Aviles",Hamstring Injury,2020-07-28,2020-08-11
+North America,Mexico,Liga MX - Apertura,2018,CF Pachuca,?,105,Kazim,,?,?
+North America,Mexico,Liga MX - Apertura,2018,Cruz Azul,injuries,102861,"Aguilar, Pablo",Sideband tear,2020-02-20,?
+North America,Mexico,Liga MX - Apertura,2018,Deportivo Toluca FC,?,151,"Guemez, Javier",,?,?
+North America,Mexico,Liga MX - Apertura,2018,Pumas Unam,?,161914,"Zamudio, Alejandro",,?,?
+North America,USA,MLS,2020,Chicago Fire,injuries,22138,"Stojanovic, Luka",Medial Collateral Ligament Tear,2020-07-21,?
+North America,USA,MLS,2020,Colorado Rapids,injuries,91192,"Ford, Kortne",Knee Injury,2019-03-01,?
+North America,USA,MLS,2020,Columbus Crew,injuries,7634,"Wormgoor, Vito",Ankle Surgery,2020-07-13,?
+North America,USA,MLS,2020,DC United,injuries,26639,"Arriola, Paul",Cruciate Ligament Rupture,2020-02-15,?
+North America,USA,MLS,2020,FC Dallas,injuries,26706,"Acosta, Bryan",Appendectomy,2020-02-10,?
+North America,USA,MLS,2020,FC Dallas,injuries,91253,"Servania, Brandon",Medial Collateral Ligament Injury,2020-02-13,?
+North America,USA,MLS,2020,Houston Dynamo,suspensions,14430,"Ramirez, Christian",special leave,2020-07-13,2020-08-12
+North America,USA,MLS,2020,Inter Miami CF,injuries,91330,"Acosta, George",Knee Injury,2020-02-01,?
+North America,USA,MLS,2020,Inter Miami CF,injuries,91328,"Ulysse, Denso",Leg Injury,2020-02-01,?
+North America,USA,MLS,2020,Inter Miami CF,suspensions,6146,"Gonzalez Pirez, Leandro",No eligibility,2020-07-06,2020-08-12
+North America,USA,MLS,2020,Inter Miami CF,suspensions,14169,"Robinson, Robbie",special leave,2020-07-06,2020-08-12
+North America,USA,MLS,2020,Los Angeles Galaxy,injuries,26710,"Acosta, Danilo",Cruciate Ligament Rupture,2020-02-18,?
+North America,USA,MLS,2020,Los Angeles Galaxy,injuries,17373,"Dos Santos, Jonathan",Groin Surgery,2020-07-01,?
+North America,USA,MLS,2020,Montreal Impact,injuries,91194,"Camacho, Rudy",Knee Injury,2020-02-21,?
+North America,USA,MLS,2020,Montreal Impact,injuries,20952,"Saba, Steeven Issa",Fractured Foot,2020-05-20,?
+North America,USA,MLS,2020,New England Revolution,injuries,91202,"Caicedo, Luis",Meniscal Injury,2020-02-01,?
+North America,USA,MLS,2020,Orlando City SC,injuries,91236,"Dwyer, Dom",Knee Problems,2020-07-16,?
+North America,USA,MLS,2020,Real Salt Lake,suspensions,13508,"Onuoha, Nedum",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2020,San Jose Earthquakes,injuries,91219,"Fuentes, Gilbert",Collarbone fracture,2020-05-29,?
+North America,USA,MLS,2020,Sporting Kansas City,injuries,91280,"Fontas, Andreu",Achilles tendon surgery,2019-10-08,?
+North America,USA,MLS,2020,Sporting Kansas City,injuries,91281,"Gutierrez, Felipe",Knee Surgery,2020-06-09,?
+North America,USA,MLS,2020,Toronto FC,injuries,15550,"Achara, Ifunanyachi",Ruptured cruciate ligament,2020-07-02,?
+North America,USA,MLS,2020,Vancouver Whitecaps FC,suspensions,14553,"Ricketts, Tosaint",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2020,Vancouver Whitecaps FC,suspensions,14546,"Cavallini, Lucas",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2020,Vancouver Whitecaps FC,suspensions,17313,"Mukumbilwa, Georges",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2020,Vancouver Whitecaps FC,suspensions,14548,"Meredith, Bryan",special leave,2020-07-19,2020-08-18
+North America,USA,MLS,2019,Chicago Fire,injuries,22138,"Stojanovic, Luka",Medial Collateral Ligament Tear,2020-07-21,?
+North America,USA,MLS,2019,Colorado Rapids,injuries,91192,"Ford, Kortne",Knee Injury,2019-03-01,?
+North America,USA,MLS,2019,Columbus Crew,injuries,7634,"Wormgoor, Vito",Ankle Surgery,2020-07-13,?
+North America,USA,MLS,2019,DC United,injuries,26639,"Arriola, Paul",Cruciate Ligament Rupture,2020-02-15,?
+North America,USA,MLS,2019,FC Dallas,injuries,26706,"Acosta, Bryan",Appendectomy,2020-02-10,?
+North America,USA,MLS,2019,FC Dallas,injuries,91253,"Servania, Brandon",Medial Collateral Ligament Injury,2020-02-13,?
+North America,USA,MLS,2019,Houston Dynamo,suspensions,14430,"Ramirez, Christian",special leave,2020-07-13,2020-08-12
+North America,USA,MLS,2019,Los Angeles Galaxy,injuries,26710,"Acosta, Danilo",Cruciate Ligament Rupture,2020-02-18,?
+North America,USA,MLS,2019,Los Angeles Galaxy,injuries,17373,"Dos Santos, Jonathan",Groin Surgery,2020-07-01,?
+North America,USA,MLS,2019,Montreal Impact,injuries,91194,"Camacho, Rudy",Knee Injury,2020-02-21,?
+North America,USA,MLS,2019,Montreal Impact,injuries,20952,"Saba, Steeven Issa",Fractured Foot,2020-05-20,?
+North America,USA,MLS,2019,New England Revolution,injuries,91202,"Caicedo, Luis",Meniscal Injury,2020-02-01,?
+North America,USA,MLS,2019,Orlando City SC,injuries,91236,"Dwyer, Dom",Knee Problems,2020-07-16,?
+North America,USA,MLS,2019,Real Salt Lake,suspensions,13508,"Onuoha, Nedum",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2019,San Jose Earthquakes,injuries,91219,"Fuentes, Gilbert",Collarbone fracture,2020-05-29,?
+North America,USA,MLS,2019,Sporting Kansas City,injuries,91280,"Fontas, Andreu",Achilles tendon surgery,2019-10-08,?
+North America,USA,MLS,2019,Sporting Kansas City,injuries,91281,"Gutierrez, Felipe",Knee Surgery,2020-06-09,?
+North America,USA,MLS,2019,Toronto FC,injuries,15550,"Achara, Ifunanyachi",Ruptured cruciate ligament,2020-07-02,?
+North America,USA,MLS,2019,Vancouver Whitecaps FC,suspensions,14553,"Ricketts, Tosaint",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2019,Vancouver Whitecaps FC,suspensions,14546,"Cavallini, Lucas",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2019,Vancouver Whitecaps FC,suspensions,17313,"Mukumbilwa, Georges",special leave,2020-07-08,2020-08-12
+North America,USA,MLS,2019,Vancouver Whitecaps FC,suspensions,14548,"Meredith, Bryan",special leave,2020-07-19,2020-08-18
+South America,Brazil,Brasileiro Serie A,2020,Fortaleza EC CE,injuries,73805,Ederson,Ruptured knee ligament,2019-04-05,?
+South America,Brazil,Brasileiro Serie A,2020,Fortaleza EC CE,injuries,73802,"Carvalho, Roger",Ruptured knee ligament,2019-08-18,?
+South America,Brazil,Brasileiro Serie A,2020,Sao Paulo FC SP,injuries,73417,Walce,Cruciate Ligament Rupture,2020-01-12,?
+South America,Brazil,Brasileiro Serie A,2020,SE Palmeiras SP,injuries,73791,Vinicius Silvestre,Thumb Injury,2019-10-07,?
+South America,Brazil,Brasileiro Serie A,2019,Fortaleza EC CE,injuries,73805,Ederson,Ruptured knee ligament,2019-04-05,?
+South America,Brazil,Brasileiro Serie A,2019,Fortaleza EC CE,injuries,73802,"Carvalho, Roger",Ruptured knee ligament,2019-08-18,?
+South America,Brazil,Brasileiro Serie A,2019,Sao Paulo FC SP,injuries,73417,Walce,Cruciate Ligament Rupture,2020-01-12,?
+South America,Brazil,Brasileiro Serie A,2019,SE Palmeiras SP,injuries,73791,Vinicius Silvestre,Thumb Injury,2019-10-07,?

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "formation": null,
+    "squad": [
+      {
+        "player": {
+          "id": "17429",
+          "name": null,
+          "common_name": "Walton, Christian",
+          "firstname": "Christian Timothy",
+          "lastname": "Walton",
+          "weight": "75",
+          "height": "182",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17429.png",
+          "country": {
+            "id": "3",
+            "name": "England",
+            "cc": "en"
+          }
+        },
+        "number": "1",
+        "captain": null,
+        "position": "G",
+        "order": 1
+      },
+      {
+        "player": {
+          "id": "17439",
+          "name": null,
+          "common_name": "Nyambe, Ryan",
+          "firstname": "Ryan",
+          "lastname": "Nyambe",
+          "weight": "76",
+          "height": "183",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17439.png",
+          "country": {
+            "id": null,
+            "name": null,
+            "cc": null
+          }
+        },
+        "number": "2",
+        "captain": null,
+        "position": "D",
+        "order": 2
+      },
+      {
+        "player": {
+          "id": "27047",
+          "name": null,
+          "common_name": "Lenihan, Darragh",
+          "firstname": "Darragh",
+          "lastname": "Lenihan",
+          "weight": null,
+          "height": null,
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/27047.png",
+          "country": {
+            "id": null,
+            "name": null,
+            "cc": null
+          }
+        },
+        "number": "26",
+        "captain": null,
+        "position": "D",
+        "order": 3
+      },
+      {
+        "player": {
+          "id": "27053",
+          "name": null,
+          "common_name": "Carter, Hayden",
+          "firstname": "Hayden",
+          "lastname": "Carter",
+          "weight": null,
+          "height": null,
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/27053.png",
+          "country": {
+            "id": null,
+            "name": null,
+            "cc": null
+          }
+        },
+        "number": "41",
+        "captain": null,
+        "position": "D",
+        "order": 4
+      },
+      {
+        "player": {
+          "id": "17443",
+          "name": null,
+          "common_name": "Rankin Costello, Joe",
+          "firstname": "Joe",
+          "lastname": "Rankin Costello",
+          "weight": "0",
+          "height": "0",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17443.png",
+          "country": {
+            "id": "3",
+            "name": "England",
+            "cc": "en"
+          }
+        },
+        "number": "37",
+        "captain": null,
+        "position": "M",
+        "order": 5
+      },
+      {
+        "player": {
+          "id": "27045",
+          "name": null,
+          "common_name": "Holtby, Lewis",
+          "firstname": "Lewis",
+          "lastname": "Holtby",
+          "weight": null,
+          "height": null,
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/27045.png",
+          "country": {
+            "id": null,
+            "name": null,
+            "cc": null
+          }
+        },
+        "number": "22",
+        "captain": null,
+        "position": "M",
+        "order": 6
+      },
+      {
+        "player": {
+          "id": "17430",
+          "name": null,
+          "common_name": "Travis, Lewis",
+          "firstname": "Lewis",
+          "lastname": "Travis",
+          "weight": "83",
+          "height": "183",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17430.png",
+          "country": {
+            "id": "3",
+            "name": "England",
+            "cc": "en"
+          }
+        },
+        "number": "27",
+        "captain": null,
+        "position": "M",
+        "order": 7
+      },
+      {
+        "player": {
+          "id": "17444",
+          "name": null,
+          "common_name": "Johnson, Bradley",
+          "firstname": "Bradley Paul",
+          "lastname": "Johnson",
+          "weight": "68",
+          "height": "178",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17444.png",
+          "country": {
+            "id": "3",
+            "name": "England",
+            "cc": "en"
+          }
+        },
+        "number": "4",
+        "captain": null,
+        "position": "M",
+        "order": 8
+      },
+      {
+        "player": {
+          "id": "17431",
+          "name": null,
+          "common_name": "Rothwell, Joe",
+          "firstname": "Joe",
+          "lastname": "Rothwell",
+          "weight": "77",
+          "height": "185",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17431.png",
+          "country": {
+            "id": "3",
+            "name": "England",
+            "cc": "en"
+          }
+        },
+        "number": "8",
+        "captain": null,
+        "position": "M",
+        "order": 9
+      },
+      {
+        "player": {
+          "id": "17435",
+          "name": null,
+          "common_name": "Armstrong, Adam",
+          "firstname": "Adam James",
+          "lastname": "Armstrong",
+          "weight": "69",
+          "height": "172",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17435.png",
+          "country": {
+            "id": "3",
+            "name": "England",
+            "cc": "en"
+          }
+        },
+        "number": "7",
+        "captain": null,
+        "position": "F",
+        "order": 10
+      },
+      {
+        "player": {
+          "id": "17441",
+          "name": null,
+          "common_name": "Brereton, Ben",
+          "firstname": "Benjamin Anthony",
+          "lastname": "Brereton",
+          "weight": "75",
+          "height": "183",
+          "img": "https://cdn.soccersapi.com/images/soccer/players/50/17441.png",
+          "country": {
+            "id": "3",
+            "name": "England",
+            "cc": "en"
+          }
+        },
+        "number": "20",
+        "captain": null,
+        "position": "F",
+        "order": 11
+      }
+    ]
+  },
+  "meta": {
+    "requests_left": 2053,
+    "user": "kenpetere",
+    "plan": "pack_20",
+    "pages": 1,
+    "page": 1,
+    "count": 1
+  }
+}

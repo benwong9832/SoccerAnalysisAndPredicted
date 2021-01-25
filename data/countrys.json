@@ -1,0 +1,930 @@
+{
+    "data": [
+        {
+            "id": "136",
+            "name": "Africa",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "139",
+            "name": "Asia",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "140",
+            "name": "Australia & Oceania",
+            "continent": "Oceania",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "135",
+            "name": "Europe",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "137",
+            "name": "North & Central America",
+            "continent": "North America",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "138",
+            "name": "South America",
+            "continent": "South America",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "141",
+            "name": "World",
+            "continent": "World",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "133",
+            "name": "Simulated Reality League",
+            "continent": "World",
+            "sub_region": null,
+            "code": null
+        },
+        {
+            "id": "8",
+            "name": "Albania",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "al"
+        },
+        {
+            "id": "9",
+            "name": "Algeria",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "dz"
+        },
+        {
+            "id": "10",
+            "name": "Andorra",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ad"
+        },
+        {
+            "id": "11",
+            "name": "Angola",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "ao"
+        },
+        {
+            "id": "12",
+            "name": "Argentina",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "ar"
+        },
+        {
+            "id": "13",
+            "name": "Armenia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "am"
+        },
+        {
+            "id": "14",
+            "name": "Australia",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "au"
+        },
+        {
+            "id": "15",
+            "name": "Austria",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "at"
+        },
+        {
+            "id": "17",
+            "name": "Azerbaijan",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "az"
+        },
+        {
+            "id": "18",
+            "name": "Bahrain",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "bh"
+        },
+        {
+            "id": "19",
+            "name": "Bangladesh",
+            "continent": "Oceania",
+            "sub_region": null,
+            "code": "bd"
+        },
+        {
+            "id": "20",
+            "name": "Belarus",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "by"
+        },
+        {
+            "id": "21",
+            "name": "Belgium",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "be"
+        },
+        {
+            "id": "22",
+            "name": "Bolivia",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "bo"
+        },
+        {
+            "id": "23",
+            "name": "Bosnia & Herzegovina",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ba"
+        },
+        {
+            "id": "24",
+            "name": "Botswana",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "bw"
+        },
+        {
+            "id": "25",
+            "name": "Brazil",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "br"
+        },
+        {
+            "id": "26",
+            "name": "Bulgaria",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "bg"
+        },
+        {
+            "id": "134",
+            "name": "Cambodia",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "kh"
+        },
+        {
+            "id": "27",
+            "name": "Cameroon",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "cm"
+        },
+        {
+            "id": "28",
+            "name": "Canada",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "ca"
+        },
+        {
+            "id": "29",
+            "name": "Chile",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "cl"
+        },
+        {
+            "id": "30",
+            "name": "China",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "cn"
+        },
+        {
+            "id": "31",
+            "name": "Colombia",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "co"
+        },
+        {
+            "id": "32",
+            "name": "Congo",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "cg"
+        },
+        {
+            "id": "33",
+            "name": "Costa Rica",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "cr"
+        },
+        {
+            "id": "34",
+            "name": "Croatia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "hr"
+        },
+        {
+            "id": "35",
+            "name": "Cyprus",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "cy"
+        },
+        {
+            "id": "36",
+            "name": "Czech Republic",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "cz"
+        },
+        {
+            "id": "37",
+            "name": "Denmark",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "dk"
+        },
+        {
+            "id": "39",
+            "name": "Ecuador",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "ec"
+        },
+        {
+            "id": "40",
+            "name": "Egypt",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "eg"
+        },
+        {
+            "id": "41",
+            "name": "El Salvador",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "sv"
+        },
+        {
+            "id": "3",
+            "name": "England",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "en"
+        },
+        {
+            "id": "43",
+            "name": "Estonia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ee"
+        },
+        {
+            "id": "44",
+            "name": "Faroe Islands",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "fo"
+        },
+        {
+            "id": "45",
+            "name": "Finland",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "fi"
+        },
+        {
+            "id": "7",
+            "name": "France",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "fr"
+        },
+        {
+            "id": "46",
+            "name": "Georgia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ge"
+        },
+        {
+            "id": "4",
+            "name": "Germany",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "de"
+        },
+        {
+            "id": "48",
+            "name": "Ghana",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "gh"
+        },
+        {
+            "id": "49",
+            "name": "Gibraltar",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "gi"
+        },
+        {
+            "id": "50",
+            "name": "Greece",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "gr"
+        },
+        {
+            "id": "51",
+            "name": "Guatemala",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "gt"
+        },
+        {
+            "id": "52",
+            "name": "Honduras",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "hn"
+        },
+        {
+            "id": "53",
+            "name": "Hong Kong",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "hk"
+        },
+        {
+            "id": "54",
+            "name": "Hungary",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "hu"
+        },
+        {
+            "id": "55",
+            "name": "Iceland",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "is"
+        },
+        {
+            "id": "56",
+            "name": "India",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "in"
+        },
+        {
+            "id": "57",
+            "name": "Indonesia",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "id"
+        },
+        {
+            "id": "59",
+            "name": "Iran",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "ir"
+        },
+        {
+            "id": "60",
+            "name": "Ireland",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ie"
+        },
+        {
+            "id": "61",
+            "name": "Israel",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "il"
+        },
+        {
+            "id": "6",
+            "name": "Italy",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "it"
+        },
+        {
+            "id": "62",
+            "name": "Ivory Coast",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "ci"
+        },
+        {
+            "id": "63",
+            "name": "Jamaica",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "jm"
+        },
+        {
+            "id": "64",
+            "name": "Japan",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "jp"
+        },
+        {
+            "id": "65",
+            "name": "Jordan",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "jo"
+        },
+        {
+            "id": "66",
+            "name": "Kazakhstan",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "kz"
+        },
+        {
+            "id": "67",
+            "name": "Kenya",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "ke"
+        },
+        {
+            "id": "68",
+            "name": "Kosovo",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "xk"
+        },
+        {
+            "id": "69",
+            "name": "Kuwait",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "kw"
+        },
+        {
+            "id": "70",
+            "name": "Latvia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "lv"
+        },
+        {
+            "id": "71",
+            "name": "Lebanon",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "lb"
+        },
+        {
+            "id": "131",
+            "name": "Liechtenstein",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "li"
+        },
+        {
+            "id": "72",
+            "name": "Lithuania",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "lt"
+        },
+        {
+            "id": "73",
+            "name": "Luxembourg",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "lu"
+        },
+        {
+            "id": "74",
+            "name": "Malaysia",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "my"
+        },
+        {
+            "id": "75",
+            "name": "Malta",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "mt"
+        },
+        {
+            "id": "76",
+            "name": "Mexico",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "mx"
+        },
+        {
+            "id": "77",
+            "name": "Moldova",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "md"
+        },
+        {
+            "id": "78",
+            "name": "Montenegro",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "me"
+        },
+        {
+            "id": "79",
+            "name": "Morocco",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "ma"
+        },
+        {
+            "id": "80",
+            "name": "Myanmar",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "mm"
+        },
+        {
+            "id": "81",
+            "name": "Netherlands",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "nl"
+        },
+        {
+            "id": "82",
+            "name": "New Zealand",
+            "continent": "Oceania",
+            "sub_region": null,
+            "code": "nz"
+        },
+        {
+            "id": "83",
+            "name": "Nicaragua",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "ni"
+        },
+        {
+            "id": "84",
+            "name": "Nigeria",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "ng"
+        },
+        {
+            "id": "86",
+            "name": "North Macedonia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "mk"
+        },
+        {
+            "id": "85",
+            "name": "Northern Ireland",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "n"
+        },
+        {
+            "id": "87",
+            "name": "Norway",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "no"
+        },
+        {
+            "id": "88",
+            "name": "Oman",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "om"
+        },
+        {
+            "id": "89",
+            "name": "Pakistan",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "pk"
+        },
+        {
+            "id": "90",
+            "name": "Palestine",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "ps"
+        },
+        {
+            "id": "91",
+            "name": "Panama",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "pa"
+        },
+        {
+            "id": "92",
+            "name": "Paraguay",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "py"
+        },
+        {
+            "id": "93",
+            "name": "Peru",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "pe"
+        },
+        {
+            "id": "94",
+            "name": "Philippines",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "ph"
+        },
+        {
+            "id": "95",
+            "name": "Poland",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "pl"
+        },
+        {
+            "id": "96",
+            "name": "Portugal",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "pt"
+        },
+        {
+            "id": "97",
+            "name": "Qatar",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "qa"
+        },
+        {
+            "id": "98",
+            "name": "Republic of Korea",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "kr"
+        },
+        {
+            "id": "99",
+            "name": "Romania",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ro"
+        },
+        {
+            "id": "100",
+            "name": "Russia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ru"
+        },
+        {
+            "id": "101",
+            "name": "Rwanda",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "rw"
+        },
+        {
+            "id": "102",
+            "name": "San Marino",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "sm"
+        },
+        {
+            "id": "103",
+            "name": "Saudi Arabia",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "sa"
+        },
+        {
+            "id": "104",
+            "name": "Scotland",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "s"
+        },
+        {
+            "id": "105",
+            "name": "Senegal",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "sn"
+        },
+        {
+            "id": "106",
+            "name": "Serbia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "rs"
+        },
+        {
+            "id": "107",
+            "name": "Singapore",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "sg"
+        },
+        {
+            "id": "108",
+            "name": "Slovakia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "sk"
+        },
+        {
+            "id": "109",
+            "name": "Slovenia",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "si"
+        },
+        {
+            "id": "110",
+            "name": "South Africa",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "za"
+        },
+        {
+            "id": "5",
+            "name": "Spain",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "es"
+        },
+        {
+            "id": "112",
+            "name": "Sweden",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "se"
+        },
+        {
+            "id": "114",
+            "name": "Switzerland",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ch"
+        },
+        {
+            "id": "115",
+            "name": "Tanzania",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "tz"
+        },
+        {
+            "id": "116",
+            "name": "Thailand",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "th"
+        },
+        {
+            "id": "132",
+            "name": "Trinidad and Tobago",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "tt"
+        },
+        {
+            "id": "117",
+            "name": "Tunisia",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "tn"
+        },
+        {
+            "id": "118",
+            "name": "Turkey",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "tr"
+        },
+        {
+            "id": "120",
+            "name": "Uganda",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "ug"
+        },
+        {
+            "id": "121",
+            "name": "Ukraine",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "ua"
+        },
+        {
+            "id": "122",
+            "name": "United Arab Emirates",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "ae"
+        },
+        {
+            "id": "123",
+            "name": "Uruguay",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "uy"
+        },
+        {
+            "id": "124",
+            "name": "USA",
+            "continent": "North America",
+            "sub_region": null,
+            "code": "us"
+        },
+        {
+            "id": "125",
+            "name": "Uzbekistan",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "uz"
+        },
+        {
+            "id": "126",
+            "name": "Venezuela",
+            "continent": "South America",
+            "sub_region": null,
+            "code": "ve"
+        },
+        {
+            "id": "127",
+            "name": "Vietnam",
+            "continent": "Asia",
+            "sub_region": null,
+            "code": "vn"
+        },
+        {
+            "id": "128",
+            "name": "Wales",
+            "continent": "Europe",
+            "sub_region": null,
+            "code": "w"
+        },
+        {
+            "id": "129",
+            "name": "Zambia",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "zm"
+        },
+        {
+            "id": "130",
+            "name": "Zimbabwe",
+            "continent": "Africa",
+            "sub_region": null,
+            "code": "zw"
+        }
+    ],
+    "meta": {
+        "requests_left": 2739,
+        "user": "kenpetere",
+        "plan": "pack_20",
+        "pages": 2,
+        "page": "1",
+        "count": 100,
+        "total": 131
+    }
+}

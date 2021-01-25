@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": "574",
+    "name": "Championship",
+    "is_cup": "1",
+    "is_amateur": "0",
+    "img": "https://cdn.soccersapi.com/images/soccer/leagues/100/574.png",
+    "id_current_season": "7195",
+    "id_current_stage": null,
+    "id_current_round": "117573",
+    "continent": {
+      "id": "2",
+      "name": "Europe"
+    },
+    "country": {
+      "id": "3",
+      "name": "England",
+      "cc": "en"
+    },
+    "seasons": [
+      {
+        "id": "7195",
+        "name": "20/21",
+        "is_current": "1"
+      },
+      {
+        "id": "166",
+        "name": "19/20",
+        "is_current": "0"
+      },
+      {
+        "id": "167",
+        "name": "18/19",
+        "is_current": "0"
+      }
+    ]
+  },
+  "meta": {
+    "requests_left": 2954,
+    "user": "kenpetere",
+    "plan": "pack_20",
+    "pages": 1,
+    "page": 1,
+    "count": 0,
+    "total": 1
+  }
+}

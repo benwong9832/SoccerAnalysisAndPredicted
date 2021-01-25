@@ -1,0 +1,102 @@
+What are the four tiers of data centres construction?
+
+Four tiers Background
+Uptime Institute defined data center Tier classification levels in 1990s. 
+It is the founder and trusted source for data center Tier Certification, and 
+Now It already becomes global standard for third-party validation of data center critical infrastructure.
+
+
+
+What are the Tiers?
+They are consistently evaluate various data center facilities in terms of potential site infrastructure performance, or uptime. 
+Data center classifications are divided into four Tiers, each Tier incorporates the requirements of the lower Tiers. 
+But not mean that a Tier III data center is better than a Tier I
+Different levels fit different business operations. data centre owner need to evaluate risk and cost they can take.
+
+
+
+Tier I
+Tier I data center is the basic capacity level with infrastructure to support information technology beyond an office setting. 
+That are includes an area for IT system, and an uninterruptible Power Supply to filter power spikes, sags, and momentary outages, and 
+cooling Units to prevent hardware shutdown for too hot. Moveover,  an engine generator to protect IT functions from extended power outages.
+
+Against system faire from human error, but not unexpected failure or outage. 
+
+Tier I data center features litter redundancy. Power and cooling equipment has access to only a single path, 
+the facility will have to shut down completely for preventive maintenance and repairs, implying a downtime of 28 to 29 hours on a yearly basis. 
+Moreover, it increases the risk of unplanned system failure and serious consequences.
+
+Tier I data center is a good choice for small businesses with no complex requirements.
+99.671% uptime percentage per year, 28.817 hours each year
+
+
+Tier II
+Tier II facilities cover redundant capacity components for power and cooling that provide better maintenance opportunities and safety against disruptions. 
+
+Like a Tier I facility, the path for power and cooling is still one, unexpected shutdown of a Tier II data center will affect the system. 
+but Tier II involve more redundant components which increasing reliability levels.
+
+Like a Tier I, it have UPS, Cooling Units and engine generator. 
+The redundant components also includes Energy Storage, Chillers, Pumps, Heat rejection equipment, Fuel tanks and Fuel cells. 
+99.741% uptime percentage per year. 22.688 hours
+
+A tier 1 or 2 data center may work well for a smaller company
+
+
+Tier III
+The key of Tier III is concurrently maintainable with redundant components. Unlike Tier I and Tier II, no need to shutdowns when equipment require maintenance or replacement.
+ 
+It features a sophisticated infrastructure and a high redundancy level, along with multiple paths for power and cooling. 
+
+All the components are also connected to multiple power sources. If any of these fails, others can be utilized instead, so  IT operation isn’t affected.
+
+It situable larger companies.
+99.982% uptime percentage per year.
+1.5768 hours
+
+
+Tier IV
+Fault Tolerance Tier IV site infrastructure builds on Tier III, adding the concept of Fault Tolerance to the site infrastructure topology. 
+That has several independent and physically isolated systems that act as redundant capacity components and distribution paths.  
+When a piece of equipment fails, or there is an interruption in the distribution path, IT operations will not be affected. 
+All of the IT equipment must have a fault-tolerant power design to be compatible. 
+
+However, if the redundant components or distribution paths are shut down for maintenance, the environment may experience a higher risk of disruption if a failure occurs.
+
+A Tier 4 data center features 96-hour protection from the power outage and multiple redundancies to ensure that the system 
+can normally perform even if a higher number of equipment fails. 
+99.995% uptime percentage per year
+0.4 hours
+
+It situable larger companies Tier 4 and 3 large multi-national organization
+
+benifit
+user, owner
+
+
+
+When planning a data center move to an external provider or to a cloud provider, data center rankings help you understand the risks involved in using these providers
+
+When building or redesigning your own data center, to provide a blueprint for its setup and configuration that meets your needs
+
+When you’re hosting a critical application for a customer, they will want to know what your data center ranking is, who certified your DC, and what certification standard was used.
+
+exceptional capability and reliability
+ flexibility and reliability of Tier IV services.
+  security and reliability
+The confidential data can be stored in a Tier IV data center or on-premise data center while public data is stored in a less secure and more budget-friendly option.
+
+Budget: This can be the determining factor for many businesses. In many cases, a hybrid solution of on-premise or multiple cloud data centers may be the right choice.
+
+Security: Does the type of data being stored require the features and benefits offered by a Tier IV data center?
+
+Flexibility and scalability: On-premise data centers are customizable but may lack the scalability needed from growing businesses. Can a cloud-based data center help alleviate this problem?
+ 
+ 
+
+
+A business that invests substantially in SaaS (software as a service) needs almost uninterrupted availability for customers around the world may find it essential to secure the flexibility and reliability of Tier IV services.
+The data center owner defines a need to achieve a specific Tier Level to match a business demand.
+
+Uptime Institute Consultants review 100% of the design documents, ensuring each subsystem among electrical, mechanical, monitoring, and automation meet the fundamental concepts and there are no weak links in the chain.
+

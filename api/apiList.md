@@ -1,0 +1,80 @@
+## Dev api
+- [x] all leagues
+- [x] Standings in all leagues and season layer: 2
+- [x] Teams by Season layer: 2
+- [x] teams squad in all leagues and season layer: 3
+- [x] teams Transfers in all leagues and season layer: 3
+- [x] teams Sidelined in all leagues and season layer: 3
+- [x] Fixtures by Season (season \* leagues) layer: 2
+- [x] Match by ID? layer: 3
+- [x] Match Commentary
+- [x] Match Events layer: 3
+- [x] Match Lineups layer: 3
+- [x] Match Bench layer: 3
+- [x] Match Sidelined layer: 3
+- [x] Match Stats layer: 3
+- [x] Match Trend Analyses layer: 3
+- [x] Season Stats layer: 2
+- [x] Team Stats
+- [ ] Player Stats by season
+- [x] Player Stats by match
+- [x] Player by ID
+- [ ] Coach by ID
+- [x] Venue by ID
+- [x] Bookmarkets 
+- [ ] Pre-match data
+- [x] In-Play Odds
+
+## Get data
+- [x] all leagues
+- [x] Standings in all leagues and season
+- [x] Teams by Season
+- [x] teams squad in all leagues and season
+- [x] teams Transfers in all leagues and season
+- [x] teams Sidelined in all leagues and season
+- [x] Fixtures by Season (season \* leagues)
+- [x] Match by ID
+- [x] Match Commentary
+- [x] Match Events
+- [x] Match Lineups
+- [x] Match Bench
+- [x] Match Sidelined
+- [x] Match Stats
+- [x] Match Trend Analyses
+- [x] Season Stats
+- [x] Team Stats
+- [ ] Player Stats by season
+- [ ] Player Stats by match
+- [x] Player by ID
+- [ ] Coach by ID
+- [ ] Venue by ID
+- [ ] Bookmarkets
+- [ ] Pre-match data
+- [ ] In-Play Odds
+
+## Data Convert
+- [x] all leagues
+- [x] Standings in all leagues and season
+- [x] Teams by Season
+- [x] teams squad in all leagues and season
+- [x] teams Transfers in all leagues and season
+- [x] teams Sidelined in all leagues and season
+- [x] Fixtures by Season (season \* leagues)
+- [ ] Match by ID?
+- [ ] Match Commentary?
+- [x] Match Events
+- [x] Match Lineups
+- [ ] Match Bench
+- [ ] Match Sidelined
+- [x] Match Stats
+- [ ] Match Trend Analyses
+- [x] Season Stats
+- [x] Team Stats
+- [ ] Player Stats by season
+- [ ] Player Stats by match
+- [x] Player by ID
+- [ ] Coach by ID
+- [ ] Venue by ID
+- [ ] Bookmarkets
+- [ ] Pre-match data
+- [ ] In-Play Odds
