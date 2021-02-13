@@ -31,7 +31,7 @@ rowData = {
 
 # data_file = open(os.getcwd() + '\\csvData\\match\\matchLineups2.csv', 'w', newline='', encoding='utf-8')
 data_file = open(os.getcwd() + '/csvData/match/matchLineups2.csv', 'w', newline='', encoding='utf-8')
-print(os.getcwd() + '/csvData/match/matchLineups2.csv')
+
 csv_writer = csv.writer(data_file)
 
 
@@ -65,11 +65,11 @@ for file_path in file_paths:
     	data = json.load(json_file)
     
     if 'data' in data:
+        data = data['data']
+
         if len(data['home']['squad']) != 11 or len(data['away']['squad']) != 11:
             print(file_path)
             break
-
-        data = data['data']
 
         rowData['match_id'].append(match_id)
         rowData['season'].append(season)
